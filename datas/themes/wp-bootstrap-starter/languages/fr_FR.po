@@ -1,0 +1,551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-01 14:53+0200\n"
+"PO-Revision-Date: 2020-07-01 14:53+0200\n"
+"Last-Translator: INFORMATUX <contact@informatux.com>\n"
+"Language-Team: INFORMATUX\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;_x\n"
+"X-Poedit-SearchPath-0: wp-bootstrap-starter\n"
+"X-Poedit-SearchPath-1: wp-bootstrap-starter-child\n"
+"X-Poedit-SearchPathExcluded-0: wp-bootstrap-starter/inc\n"
+"X-Poedit-SearchPathExcluded-1: wp-bootstrap-starter/assets/js\n"
+"X-Poedit-SearchPathExcluded-2: wp-bootstrap-starter/vendor\n"
+
+#: wp-bootstrap-starter-child/archive-equine.php:107
+#: wp-bootstrap-starter-child/search.php:378
+#: wp-bootstrap-starter-child/search.php:418
+msgid "No horses available"
+msgstr "Aucun équidé disponible"
+
+#: wp-bootstrap-starter-child/functions.php:107
+#, php-format
+msgid ""
+"J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+"confidentialit&eacute;</a> et j'autorise \"%2$s\" &agrave; collecter et "
+"&agrave; stocker les donn&eacute;es que je soumets via ce formulaire."
+msgstr ""
+"J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+"confidentialit&eacute;</a> et j'autorise \"%2$s\" &agrave; collecter et "
+"&agrave; stocker les donn&eacute;es que je soumets via ce formulaire."
+
+#: wp-bootstrap-starter-child/functions.php:110
+#, php-format
+msgid ""
+"En vous inscrivant sur ce site, vous acceptez les <a href=\"%s\" target="
+"\"_blank\">termes et conditions</a>."
+msgstr ""
+"En vous inscrivant sur ce site, vous acceptez les <a href=\"%s\" target="
+"\"_blank\">termes et conditions</a>."
+
+#: wp-bootstrap-starter-child/functions.php:113
+#, php-format
+msgid ""
+"<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+"<br><br><a class=\"equipeer-mini-button-blue\" href=\"%s\">Se connecter</a></"
+"p>"
+msgstr ""
+"<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+"<br><br><a class=\"equipeer-mini-button-blue\" href=\"%s\">Se connecter</a></"
+"p>"
+
+#: wp-bootstrap-starter-child/functions.php:117
+msgid "Mot de passe"
+msgstr "Mot de passe"
+
+#: wp-bootstrap-starter-child/functions.php:120
+msgid "Se connecter avec Facebook"
+msgstr "Se connecter avec Facebook"
+
+#: wp-bootstrap-starter-child/functions.php:123
+msgid "Se connecter avec Google"
+msgstr "Se connecter avec Google"
+
+#: wp-bootstrap-starter-child/functions.php:126
+msgid "S'enregistrer"
+msgstr "S'enregistrer"
+
+#: wp-bootstrap-starter-child/functions.php:129
+msgid "Mot de passe oubli&eacute; ?"
+msgstr "Mot de passe oubli&eacute; ?"
+
+#: wp-bootstrap-starter-child/functions.php:152
+#: wp-bootstrap-starter-child/functions.php:154
+msgid "Equipeer Title H2 Widget"
+msgstr "Widget Equipeer Titre H2"
+
+#: wp-bootstrap-starter-child/functions.php:172
+msgid "Default Title"
+msgstr "Titre par défaut"
+
+#: wp-bootstrap-starter-child/functions.php:175
+msgid "Title:"
+msgstr "Titre:"
+
+#: wp-bootstrap-starter-child/search.php:265
+msgid "With your search criteria"
+msgstr "Avec vos critères de recherche"
+
+#: wp-bootstrap-starter-child/search.php:265
+msgid "Founds"
+msgstr "Trouvés"
+
+#: wp-bootstrap-starter-child/search.php:267
+msgid "Your search criteria"
+msgstr "Vos critères de recherche"
+
+#: wp-bootstrap-starter-child/search.php:277
+msgid "Reference"
+msgstr "Référence"
+
+#: wp-bootstrap-starter-child/search.php:283
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:516
+msgid "Discipline"
+msgstr "Discipline"
+
+#: wp-bootstrap-starter-child/search.php:288
+msgid "Level"
+msgstr "Niveau"
+
+#: wp-bootstrap-starter-child/search.php:300
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:521
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:91
+msgid "Age"
+msgstr "Age"
+
+#: wp-bootstrap-starter-child/search.php:302
+msgid "Prix"
+msgstr "Prix"
+
+#: wp-bootstrap-starter-child/search.php:309
+msgid "Sexe"
+msgstr "Sexe"
+
+#: wp-bootstrap-starter-child/search.php:324
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:185
+msgid "Localization"
+msgstr "Localisation"
+
+#: wp-bootstrap-starter-child/template-parts/footer-page.php:12
+msgid "Frequently asked questions"
+msgstr "Questions fréquemment posées"
+
+#: wp-bootstrap-starter-child/template-parts/footer-page.php:16
+msgid "You have a question?"
+msgstr "Vous avez une question ?"
+
+#: wp-bootstrap-starter-child/template-parts/footer-page.php:16
+msgid "Select the corresponding section."
+msgstr "Sélectionnez la rubrique correspondante."
+
+#: wp-bootstrap-starter-child/templates/equine/archive-card.php:83
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:482
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:159
+msgid "Price"
+msgstr "Prix"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:245
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:270
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:295
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:321
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:347
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:373
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:399
+msgid "You're not logged in?"
+msgstr "vous n'êtes pas connecté.e ?"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:246
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:271
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:296
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:322
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:348
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:374
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:400
+msgid "This functionality is reserved for connected users"
+msgstr "Cette fonctionnalité est réservée aux utilisateurs connectés"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:247
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:272
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:297
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:323
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:349
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:375
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:401
+#: wp-bootstrap-starter/template-parts/navbar-menu.php:12
+#: wp-bootstrap-starter/template-parts/navbar-search.php:11
+msgid "Close"
+msgstr "Fermer"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:248
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:273
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:298
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:324
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:350
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:376
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:402
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:553
+msgid "Sign in"
+msgstr "Se connecter"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:250
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:275
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:300
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:326
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:352
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:378
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:404
+msgid "Sign up"
+msgstr "S'enregistrer"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:501
+msgid "The expert's opinion"
+msgstr "L'avis de l'expert"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:501
+msgid "Strong points"
+msgstr "Points forts"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:506
+msgid "No expert's opinion"
+msgstr "Aucun avis de l'expert"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:517
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:342
+msgid "Breed"
+msgstr "Race"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:518
+msgid "Gender"
+msgstr "Sexe"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:519
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:442
+msgid "Color"
+msgstr "Robe"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:520
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:275
+msgid "Size"
+msgstr "Taille"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:524
+msgid "General informations"
+msgstr "Informations générales"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:551
+msgid "The rest is reserved for connected users."
+msgstr "La suite est réservée aux utilisateurs connectés."
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:552
+msgid "Already a Equipeer SPORT account?"
+msgstr "Déjà un compte Equipeer SPORT ?"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:563
+msgid ""
+"Access the <strong>full description of the horse</strong>: price, origin, "
+"skills & qualities, location, etc."
+msgstr ""
+"Accédez au <strong>descriptif complet du cheval</strong> : prix, origine, "
+"aptitudes & qualités, localisation, etc."
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:573
+msgid ""
+"Take advantage of <strong>all the features of our site</strong>: saving and "
+"sending a selection, search alerts, etc."
+msgstr ""
+"Profitez de <strong>toutes les fonctionnalités de notre site</strong> : "
+"sauvegarde et envoi de sélection, alertes de recherche, etc."
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:581
+msgid "Create a free account"
+msgstr "Créez un compte gratuitement"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:599
+msgid "Origin"
+msgstr "Origine"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:600
+msgid "Skills & qualities"
+msgstr "Aptitudes & qualités"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:601
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:225
+msgid "Actual level"
+msgstr "Niveau actuel"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:602
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:109
+msgid "Potential"
+msgstr "Potentiel"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:603
+msgid "Rider profile"
+msgstr "Profil cavalier"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:606
+msgid "Detailed description"
+msgstr "Description détaillée"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:630
+msgid "Localisation"
+msgstr "Localisation"
+
+#: wp-bootstrap-starter-child/templates/equine/single-page.php:666
+msgid "No information about localisation"
+msgstr "Aucune information disponible sur la localisation"
+
+#: wp-bootstrap-starter/comments.php:94
+msgid "Leave a Reply"
+msgstr "Laissez une réponse"
+
+#: wp-bootstrap-starter/comments.php:96
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laissez une réponse à %s"
+
+#: wp-bootstrap-starter/comments.php:97
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: wp-bootstrap-starter/comments.php:98
+msgid "Post Comment"
+msgstr "Commentaire"
+
+#: wp-bootstrap-starter/comments.php:103
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Vous pouvez utiliser ces balises <abbr title=\"HyperText Markup Language"
+"\">HTML</abbr> et attributs:"
+
+#: wp-bootstrap-starter/footer.php:39
+msgid "Hello ! How can we help you?"
+msgstr "Bonjour ! En quoi pouvons-nous vous aider ?"
+
+#: wp-bootstrap-starter/functions.php:87
+#, php-format
+msgid ""
+"Welcome to WP Bootstrap Starter Theme! Before diving in to your new theme, "
+"please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" "
+"target=\"_blank\">theme's</a> page for access to dozens of tips and in-depth "
+"tutorials."
+msgstr ""
+"Bienvenue dans WP Bootstrap Starter Theme! Avant d'utiliser votre nouveau "
+"thème, veuillez visiter la <a style=\"color: #fff; font-weight: bold;\" href="
+"\"%1$s\" target=\"_blank\">page</a> du thème pour accéder à des dizaines de "
+"conseils et de didacticiels approfondis."
+
+#: wp-bootstrap-starter/functions.php:279
+msgid "To view this protected post, enter the password below:"
+msgstr "Pour afficher cet article protégé, entrez le mot de passe ci-dessous :"
+
+#: wp-bootstrap-starter/functions.php:280
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: wp-bootstrap-starter/header.php:99 wp-bootstrap-starter/header.php:100
+#: wp-bootstrap-starter/header.php:101 wp-bootstrap-starter/header.php:102
+#: wp-bootstrap-starter/template-parts/footer-colophon-socials.php:9
+#: wp-bootstrap-starter/template-parts/footer-colophon-socials.php:10
+#: wp-bootstrap-starter/template-parts/footer-colophon-socials.php:11
+#: wp-bootstrap-starter/template-parts/footer-colophon-socials.php:12
+msgid "Follow us on"
+msgstr "Suivez nous sur"
+
+#: wp-bootstrap-starter/header.php:166 wp-bootstrap-starter/header.php:176
+#: wp-bootstrap-starter/header.php:215 wp-bootstrap-starter/header.php:244
+msgid "I want to find a horse, a pony or a reference ..."
+msgstr "Je veux trouver un cheval, un poney ou une référence..."
+
+#: wp-bootstrap-starter/header.php:168 wp-bootstrap-starter/header.php:183
+#: wp-bootstrap-starter/header.php:234 wp-bootstrap-starter/header.php:268
+msgid "See all ads"
+msgstr "Voir toutes les annonces"
+
+#: wp-bootstrap-starter/header.php:180 wp-bootstrap-starter/header.php:265
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:60
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:61
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:65
+msgid "Submit your ad"
+msgstr "Déposer votre annonce"
+
+#: wp-bootstrap-starter/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: wp-bootstrap-starter/template-parts/content-notitle.php:30
+#: wp-bootstrap-starter/template-parts/content.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture <span class=\"meta-nav\">&rarr;</span>"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:73
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:75
+#: wp-bootstrap-starter/template-parts/navbar-menu.php:5
+#: wp-bootstrap-starter/template-parts/navbar-search.php:6
+msgid "Search"
+msgstr "Recherche"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:82
+msgid "My Account"
+msgstr "Mon compte"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:89
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:101
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:90
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:102
+msgid "Messaging"
+msgstr "Messagerie"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:91
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:103
+msgid "My ads"
+msgstr "Mes annonces"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:92
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:104
+msgid "My selection"
+msgstr "Ma sélection"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:93
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:105
+msgid "My profile"
+msgstr "Mon profil"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:94
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:106
+msgid "My password"
+msgstr "Mon mot de passe"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:98
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:136
+msgid "Log in"
+msgstr "Se connecter"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:99
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:138
+msgid "New client?"
+msgstr "Nouveau client ?"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:99
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:138
+msgid "Create an account"
+msgstr "Créer un compte"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:115
+msgid "My Selections"
+msgstr "Mes Sélections"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:129
+msgid "See my selection"
+msgstr "Voir ma sélection"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:130
+msgid "Send my selection"
+msgstr "Envoyer ma sélection"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:134
+msgid "You don't have selection"
+msgstr "Vous n'avez pas de sélection"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:151
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:158
+#: wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:159
+msgid "Language"
+msgstr "Langue"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:5
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:9
+msgid "Tests"
+msgstr "Epreuves"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:5
+msgid "Horses"
+msgstr "Chevaux"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:9
+msgid "Ponys"
+msgstr "Poneys"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:17
+msgid "Find a reference"
+msgstr "Trouver une référence"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:22
+msgid "Reset filters"
+msgstr "Ré-initialiser les filtres"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:23
+msgid "Filters"
+msgstr "Filtres"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:41
+msgid "Categories"
+msgstr "Catégories"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:176
+msgid "Location"
+msgstr "Localisation"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:188
+msgid "In a radius around"
+msgstr "Aux alentours de"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:200
+msgid "EQUIPEER Evaluation"
+msgstr "Type d'annonce"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:208
+msgid "Appraised ads"
+msgstr "Annonces expertisées"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:213
+msgid "Free ads"
+msgstr "Annonces libres"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:325
+msgid "Perennial origin"
+msgstr "Origine paternelle"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:331
+msgid "Father's name"
+msgstr "Nom du père"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:392
+msgid "Sex"
+msgstr "Sexe"
+
+#: wp-bootstrap-starter/template-parts/navbar-search-content.php:491
+msgid "Search / Validation"
+msgstr "Recherche / Validation"
+
+#~ msgid "With"
+#~ msgstr "Avec"
+
+#~ msgid "years"
+#~ msgstr "ans"
+
+#~ msgid "Appraised"
+#~ msgstr "Expertisé"
+
+#~ msgid "Add to my selection"
+#~ msgstr "Ajouter à ma sélection"
+
+#~ msgid "Save my search"
+#~ msgstr "Sauvegarder ma recherche"

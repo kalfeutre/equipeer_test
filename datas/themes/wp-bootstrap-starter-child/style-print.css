@@ -1,0 +1,29 @@
+/* --- PRINT --- */
+
+aside#secondary,
+#footer-colophon-socials,
+#footer-widget,
+#fb-root,
+section#primary ol.breadcrumb
+{
+	display: none;
+}
+
+#masthead-print {
+	display: block;
+}
+
+#content-header {
+	background-color: white;
+    color: #0e2d4c;
+}
+
+header.top-line {
+	font-size: 2em;
+}
+
+header#masthead.site-header.navbar-static-top.navbar-light div.container nav.navbar.navbar-icon-top.navbar-expand-lg.navbar-dark.bg-dark div.navbar-brand a.logo {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}

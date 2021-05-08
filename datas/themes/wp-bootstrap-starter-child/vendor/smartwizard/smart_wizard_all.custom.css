@@ -1,0 +1,50 @@
+/* ----- STEP FORM ----- */
+.sw-theme-arrows {
+	border: 0 !important;
+}
+.sw-theme-arrows > .nav {
+	border-bottom: 0 !important;
+}
+.sw-theme-arrows > .nav .nav-link.active::after {
+	border-left-color: #d8a235 !important;
+}
+.sw-theme-arrows > .nav .nav-link.active {
+	color: #fff !important;
+	border-color: #d8a235 !important;
+	background: #d8a235 !important;
+	cursor: pointer;
+}
+.sw-theme-arrows .toolbar > .btn {
+	flex: 0 0 15%;
+	color: #fff;
+	border: 1px #fff solid;
+	padding: 10px 25px;
+	cursor: pointer;
+	margin: 10px auto 30px auto;
+	background: transparent;
+	font: 22px 'Oswald', sans-serif;
+	line-height: 32px;
+	font-weight: 300;
+	text-transform: uppercase;
+	transition: 0.2s all ease;
+	margin: 0 0 0 1em;
+}
+.sw-theme-arrows .toolbar > .btn:hover {
+	background: #2b2f7a;
+	border: 1px #2b2f7a solid;
+	color: #fff;
+}
+.sw .toolbar > .btn.disabled, .sw .toolbar > .btn:disabled {
+	opacity: .25 !important;
+}
+
+#contacts {
+	background-color: white;
+}
+#billet-papier {
+	display: none;
+	margin: 0 0 1em 0;
+}
+.acenter {
+	text-align: center;
+}

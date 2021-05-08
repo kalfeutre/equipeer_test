@@ -1,0 +1,229 @@
+# BEGIN SecuPress readme_discloses
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^(.*/)?(readme|changelog|debug)\.(txt|md|html|log)$ - [R=404,L,NC]
+</IfModule>
+# END SecuPress
+
+# BEGIN SecuPress wp_version
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^readme\.html$ - [R=404,L,NC]
+</IfModule>
+# END SecuPress
+
+# BEGIN SecuPress no_x_powered_by
+<IfModule mod_headers.c>
+    Header unset X-Powered-By
+</IfModule>
+# END SecuPress
+
+# BEGIN SF Move Login
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^postpass/?$ /wp-login.php?action=postpass [QSA,L]
+    RewriteRule ^logout/?$ /wp-login.php?action=logout [QSA,L]
+    RewriteRule ^admequideslostpassword/?$ /wp-login.php?action=lostpassword [QSA,L]
+    RewriteRule ^admequidesresetpass/?$ /wp-login.php?action=resetpass [QSA,L]
+    RewriteRule ^admequidesregister/?$ /wp-login.php?action=register [QSA,L]
+    RewriteRule ^admequides/?$ /wp-login.php [QSA,L]
+</IfModule>
+# END SF Move Login
+
+# BEGIN WordPress
+# Les directives (lignes) entre 'BEGIN WordPress' et 'END WordPress' sont
+# généré dynamiquement, et ne doivent uniquement être modifiées via les filtres WordPress.
+# Toute modification des directives entre ces marqueurs sera outrepassée.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Désactiver l'affichage du contenu des répertoires
+
+
+# Alternative pour empêcher le listage des répertoires
+IndexIgnore *
+
+# Masquer les informations du serveur
+ServerSignature Off
+
+# Activation du suivi des liens symboliques
+
+
+# Choix du fuseau horaire
+SetEnv TZ Europe/Paris
+
+# DefaultLanguage will cause all files that do not already have a specific language tag associated with it will use this
+DefaultLanguage fr
+
+# Encodage par défaut des fichiers textes et HTML
+AddDefaultCharset UTF-8
+
+# Protéger le fichier wp-config.php
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# Protéger les fichiers .htaccess et .htpasswds
+<Files ~ "^.*\.([Hh][Tt][AaPp])">
+order allow,deny
+deny from all
+satisfy all
+</Files>
+
+# Éviter que l'on découvre l'identifiant d'un auteur
+# Merci à Jean-Michel Silone du groupe Facebook WP-Secure https://www.facebook.com/groups/wp.securite/
+<IfModule mod_rewrite.c>
+RewriteCond %{QUERY_STRING} ^author=([0-9]*)
+RewriteRule .* - [F]
+</IfModule>
+
+# Activer le hotlinking de vos images
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?equipeer.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ http://fakeimg.pl/400x200/?text=Equipeer.com [NC,R,L]
+
+# Désactiver le hotlinking de vos images
+# Pour autoriser certains sites à afficher vos images
+# Remplacez monsite.com, monsite2.com et monsite3.com par les domaines de votre choix
+#RewriteEngine On
+#RewriteCond %{HTTP_REFERER} !^$
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?monsite.com [NC]
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?monsite2.com [NC]
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?monsite3.com [NC]
+#RewriteRule \.(jpg|jpeg|png|gif)$ http://fakeimg.pl/400x200/?text=Pas_touche_aux_images [NC,R,L]
+
+# Bannir une adresse IP
+# Remplacez xxx.xxx.xxx.xxx par l'adresse IP à bannir
+#<Limit GET POST>
+#order allow,deny
+#deny from xxx.xxx.xxx.xxx
+#allow from all
+#</Limit>
+
+# Forcer le téléchargement pour ces types de fichiers
+AddType application/octet-stream .doc .docx .xls .xlsx .csv .mp3 .mp4
+
+# Mise en cache des fichiers dans le navigateur
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 1 month"
+
+ExpiresByType text/html "access plus 0 seconds"
+ExpiresByType text/xml "access plus 0 seconds"
+ExpiresByType application/xml "access plus 0 seconds"
+ExpiresByType application/json "access plus 0 seconds"
+ExpiresByType application/pdf "access plus 0 seconds"
+
+ExpiresByType application/rss+xml "access plus 1 hour"
+ExpiresByType application/atom+xml "access plus 1 hour"
+
+ExpiresByType application/x-font-ttf "access plus 1 month"
+ExpiresByType font/opentype "access plus 1 month"
+ExpiresByType application/x-font-woff "access plus 1 month"
+ExpiresByType application/x-font-woff2 "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+
+ExpiresByType video/ogg "access plus 1 month"
+ExpiresByType audio/ogg "access plus 1 month"
+ExpiresByType video/mp4 "access plus 1 month"
+ExpiresByType video/webm "access plus 1 month"
+
+ExpiresByType text/css "access plus 6 month"
+ExpiresByType application/javascript "access plus 6 month"
+
+ExpiresByType application/x-shockwave-flash "access plus 1 week"
+ExpiresByType image/x-icon "access plus 1 week"
+
+</IfModule>
+
+# En-têtes
+Header unset ETag
+FileETag None
+
+<ifModule mod_headers.c>  
+<filesMatch "\.(ico|jpe?g|png|gif|swf)$">  
+    Header set Cache-Control "public"  
+</filesMatch>  
+<filesMatch "\.(css)$">  
+    Header set Cache-Control "public"  
+</filesMatch>  
+<filesMatch "\.(js)$">  
+    Header set Cache-Control "private"  
+</filesMatch>  
+<filesMatch "\.(x?html?|php)$">  
+    Header set Cache-Control "private, must-revalidate"
+</filesMatch>
+</ifModule>
+
+# Compressions des fichiers statiques
+<IfModule mod_deflate.c> 
+    AddOutputFilterByType DEFLATE text/xhtml text/html text/plain text/xml text/javascript application/x-javascript text/css 
+    BrowserMatch ^Mozilla/4 gzip-only-text/html 
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip 
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html 
+    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip dont-vary 
+    Header append Vary User-Agent env=!dont-vary 
+</IfModule>  
+
+AddOutputFilterByType DEFLATE text/html  
+AddOutputFilterByType DEFLATE text/plain  
+AddOutputFilterByType DEFLATE text/xml  
+AddOutputFilterByType DEFLATE text/css  
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE font/opentype
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/json  
+
+# Bloquer l'utilisation de certains scripts
+RewriteEngine On
+RewriteBase /
+RewriteRule ^wp-admin/includes/ - [F,L]
+RewriteRule !^wp-includes/ - [S=3]
+RewriteRule ^wp-includes/[^/]+\.php$ - [F,L]
+RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F,L]
+RewriteRule ^wp-includes/theme-compat/ - [F,L]
+
+# Protection contre les injections de fichiers
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=http:// [OR]
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=(\.\.//?)+ [OR]
+RewriteCond %{QUERY_STRING} [a-zA-Z0-9_]=/([a-z0-9_.]//?)+ [NC]
+RewriteRule .* - [F]
+
+# Protections diverses (XSS, clickjacking et MIME-Type sniffing)
+<ifModule mod_headers.c>
+Header set X-XSS-Protection "1; mode=block"
+Header always append X-Frame-Options SAMEORIGIN
+Header set X-Content-Type-Options: "nosniff”
+</ifModule>
+
+# Exclude the WP CRON and other scripts from authentication
+# <FilesMatch "(wp-cron.php|another-script.php)$">
+<FilesMatch "(wp-cron.php)$">
+	Satisfy Any
+	Order allow,deny
+	Allow from all
+	Deny from none
+</FilesMatch>
+
+

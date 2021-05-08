@@ -1,0 +1,161 @@
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+		<style>
+			@page {
+				size: A4;
+				margin: 0;
+			}
+			@media print {
+				html, body {
+					width: 210mm;
+					height: 297mm;
+				}
+			  }
+			body {font-family: 'Roboto', sans-serif;
+				font-size: 10pt;
+				background-image: url('https://equipeer.com/uploads/pdf/bg/page-horse.png');
+			}
+			p {	margin: 0pt; }
+			.center { text-align: center; }
+			.right { text-align: right; }
+			.bold { font-weight: bold; }
+			.bggrey { background-color: #EEEEEE; }
+			.fs7pt { font-size: 7pt; }
+            #header_txt {
+				position: absolute;
+				top: 140px;
+				left: 145px;
+				font-size: 20pt;
+				color: white;
+            }
+			#image1_div {
+				position: absolute;
+				top: 245px;
+				left: 60px;
+				text-align: center;
+				width: 500px;
+				height: 344px;
+				background-size: cover;
+				background-position: center;
+				background-image: url({PAGE_2_IMG1});
+			}
+			.thumbs_div {
+				position: absolute;
+				right: 52px;
+				width: 160px;
+				height: 110px;
+				background-size: cover;
+				background-position: center;
+			}
+			#thumb1_div {
+				top: 245px;
+			}
+			#thumb2_div {
+				top: 362px;
+			}
+			#thumb3_div {
+				top: 479px;
+			}
+			#description1 {
+				position: absolute;
+				top: 600px;
+				left: 60px;
+				width: 680px;
+				font-size: 16pt;
+				color: #0e2d4c;
+				text-align: center;
+			}
+			#description2 {
+				position: absolute;
+				top: 690px;
+				left: 60px;
+				width: 680px;
+				font-size: 18pt;
+				color: #0e2d4c;
+				text-align: center;
+			}
+			#description_l1 {
+				position: absolute;
+				top: 755px;
+				left: 60px;
+				width: 340px;
+				font-size: 18pt;
+				color: #0e2d4c;
+				text-align: center;
+			}
+			#description_r1 {
+				position: absolute;
+				top: 755px;
+				left: 390px;
+				width: 350px;
+				font-size: 18pt;
+				color: #0e2d4c;
+				text-align: center;
+			}
+			.description_p {
+				font-size: 22pt;
+				font-style: normal;
+			}
+			#impression {
+				position: absolute;
+				top: 860px;
+				left: 60px;
+				width: 680px;
+				font-size: 18pt;
+				color: #0e2d4c;
+				text-align: center;
+			}
+			#price {
+				position: absolute;
+				bottom: 18px;
+				left: 60px;
+				width: 680px;
+				font-size: 24pt;
+				color: white;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+        
+        <div id="header_txt">
+            {HEADER_TXT}
+        </div>
+
+		<div id="image1_div"></div>
+        
+		<div class="thumbs_div" id="thumb1_div" style="background-image: url({PAGE_2_THB1});"></div>
+		
+		<div class="thumbs_div" id="thumb2_div" style="background-image: url({PAGE_2_THB2});"></div>
+		
+		<div class="thumbs_div" id="thumb3_div" style="background-image: url({PAGE_2_THB3});"></div>
+		
+		<div id="description1">
+			{DESCRIPTION1}
+		</div>
+		
+		<div id="description2">
+			{DESCRIPTION2}
+		</div>
+		
+		<div id="description_l1">
+			{DESCRIPTION_L1_TEXT}<br>
+			<p class="description_p">{DESCRIPTION_L1}</p>
+		</div>
+		
+		<div id="description_r1">
+			{DESCRIPTION_R1_TEXT}<br>
+			<p class="description_p">{DESCRIPTION_R1}</p>
+		</div>
+		
+		<div id="impression">
+			&laquo; {IMPRESSION} &raquo;
+		</div>		
+		
+		<div id="price">
+			{PRICE}
+		</div>
+		
+	</body>
+</html>

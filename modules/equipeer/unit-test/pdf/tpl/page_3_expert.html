@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+		<style>
+			@page {
+				size: A4;
+				margin: 0;
+			}
+			@media print {
+				html, body {
+					width: 210mm;
+					height: 297mm;
+				}
+			  }
+			body {font-family: 'Roboto', sans-serif;
+				font-size: 10pt;
+				background-image: url('https://equipeer.com/modules/equipeer/unit-test/pdf/bg/page-horse-expert.png');
+			}
+			p {	margin: 0pt; }
+			.center { text-align: center; }
+			.right { text-align: right; }
+			.bold { font-weight: bold; }
+			.bggrey { background-color: #EEEEEE; }
+			.fs7pt { font-size: 7pt; }
+            #header_txt {
+				position: absolute;
+				top: 140px;
+				left: 145px;
+				font-size: 20pt;
+				color: white;
+            }
+			#content_div {
+				position: absolute;
+				top: 215px;
+				left: 60px;
+				width: 680px;
+				height: 830px;
+				color: #0e2d4c;
+				font-size: 13pt;
+			}
+			#price {
+				position: absolute;
+				bottom: 18px;
+				left: 60px;
+				width: 680px;
+				font-size: 24pt;
+				color: white;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+	
+        <div id="header_txt">
+            {HEADER_TXT}
+        </div>
+	
+		<div id="content_div">
+			{PAGE_3_CONTENT}
+		</div>
+		
+		<div id="price">
+			{PRICE}
+		</div>
+
+	</body>
+</html>

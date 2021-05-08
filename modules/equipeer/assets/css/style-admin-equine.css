@@ -1,0 +1,8 @@
+/* *************************** */
+/*    Suppression du "Tous"    */
+/* dans le menu EQUIDES (tous) */
+/*       WP list table         */
+/* *************************** */
+.subsubsub li.all {
+	display: none;
+}

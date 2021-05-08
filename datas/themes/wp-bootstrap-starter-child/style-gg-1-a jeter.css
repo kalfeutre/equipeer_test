@@ -1,0 +1,306 @@
+
+/* =========================== */
+/* ===   BLOG EQUIPEER     === */
+/* =========================== */
+/* --- meta post-on & entry date --- */
+
+.entry-meta .posted-on a time.entry-date, .entry-meta .byline .author a{
+    color:#9a9a9a;
+}
+
+/* --- sidebar blog /menu blog --- */
+
+.widget_nav_menu h4{
+	margin: 0;
+}
+.menu-menu-blog-container li {
+    color: #fff;
+    background-color: #152e49;
+    border-radius: 5px;
+    padding: 0;
+    margin: 2px 0;
+	border:1px solid #152e49;
+}
+
+.menu-menu-blog-container li a{
+    color: #fff;
+    padding: 0.5rem 1rem;
+    font-weight: 300;
+}
+
+.menu-menu-blog-container li:hover a,.widget_categories li:hover, .widget_categories li a:hover{
+	color: #152e49;
+    background-color: #fff !important;
+}
+
+a.elementor-post__read-more{
+    background-color: #ce023f;
+    border: 1px solid #ce023f !important;
+    color: white !important;
+    border-radius: 5px;
+    padding: 0.5em 1em !important;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none !important;
+    border-bottom-width: 1px !important;
+    display: inline-block;
+    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+    -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+}
+
+a.elementor-post__read-more:hover {
+	background-color: #fff;
+    color: ce023f;
+	
+}
+
+.text-article-blog a{
+    color:#0e2d4c;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+
+.text-article-blog a:hover{
+    color:#0e2d4c;
+    text-decoration: underline !important;
+}
+
+
+
+/* ======================================================================= */
+/* ===     A REPLACER AU BON ENDROIT ...OU MODIFIER DIRECTEMENT        === */
+/* ======================================================================= */
+/*https://equipeer.fr/datas/themes/wp-bootstrap-starter/assets/css/style.css / ligne : 981 */
+/*bouton recherche/validation rouge - Ajouter a ma selection >> pas de border bleu sur btn rouge...*/
+.eq-button-red {
+    border: 1px solid #ce023f !important;
+}
+
+
+
+
+/*https://equipeer.fr/datas/themes/wp-bootstrap-starter/assets/css/style.css / ligne : 875 */
+/*TITRE PAGE suppression word spacing, pas utile et amplifié sur mobile*/
+#content-header h1 {
+    word-spacing: 0px !important;
+}
+
+
+
+/*https://equipeer.fr/datas/themes/wp-bootstrap-starter-child/style.css / ligne 318*/
+/*test position du logo expertise*/
+.horse-expertise-detail {
+    top: unset;
+    right: unset;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+/*LISTE DES ANNONCES*/
+/*Titre dans la photo > positioné sous la photo pour bien voir la vignette...+ modifié hauteur pour cohesion de la mise en forme*/
+.horse-thumb-title h3 {
+    margin-top: 0.2em;
+    height: 3.2em;
+}
+/*icone expertise placé en bas a gauche*/
+.horse-expertise-small {
+    top: 90px;
+    right: unset !important;
+    left: -5px;
+}
+
+
+
+
+
+/*DETAIL ANNONCE*/
+
+/*image equipe en sidebar/widget EQUINE Single*/
+div#media_image-2 a img {
+    margin-bottom: 20px;
+}
+
+/*largeur des colonnes du tableau, pour qu'elles soient identique*/
+.equine-template-default .table-sm th{
+    width: 30%;
+}
+
+/*correction pour > couleur texte bouton contact equipeer*/
+button.eq-button-blue a {
+    color: white !important;
+}
+
+/*correction pour > le texte est blanc au survol de button*/
+button.eq-button-blue:hover a{
+    color: #0e2d4c !important;
+}
+
+
+
+
+/*COULEUR LIEN PAR DEFAUT*/
+a {
+    /*color: #FFF;*/
+}
+
+a:hover {
+    /*color: #000;*/
+    text-decoration: none;
+}
+
+
+
+
+
+/*SLIDER ANNONCES MISE EN AVANT HOMEPAGE*/
+.item-box-blog-expert {
+    top: unset !important;
+    right: unset !important;
+    bottom: 1em;
+    left: 1em;
+}
+.item-box-blog-expert img {
+    width: 60px;
+}
+.item-box-blog {
+    height: 360px !important;
+}
+.eq-carousel .carousel-indicators li{
+    height: 5px !important; 
+}
+
+
+
+
+
+
+
+/*FENETRE MODALE*/
+/*Il faut que tu me dises ou je peux modifier le CSS pour uniformiser les boutons des fenêtres modales etc ...
+Les classes à utiliser dans la feuille de style de ton choix :
+closeButton: swal-eq-close-button-class
+confirmButton: swal-eq-confirm-button-class
+cancelButton: swal-eq-cancel-button-class*/
+
+
+
+/*BOUTONS*/
+/*page contact bouton envoyer*/
+
+div.wpforms-container-full .wpforms-form button#wpforms-submit-982 {
+    background-color: #0e2d4c;
+	border: 1px solid #0e2d4c;
+	color: white !important;
+    border-radius: 5px;
+	padding: 0.4em 1.2em;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none !important;
+	border-bottom-width: 1px !important;
+	display: inline-block;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+}
+
+div.wpforms-container-full .wpforms-form button#wpforms-submit-982:hover {
+	background-color: #fff;
+	border: 1px solid #0e2d4c;
+	color: #0e2d4c !important;
+}
+
+/* Transmettre ma demande a EQUIPEER */
+div.wpforms-container-full .wpforms-form button#wpforms-submit-2823 {
+    background-color: #ce023f;
+	border: 1px solid #ce023f;
+	color: white !important;
+    border-radius: 5px;
+	padding: 0.4em 1.2em;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none !important;
+	border-bottom-width: 1px !important;
+	display: inline-block;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+}
+
+div.wpforms-container-full .wpforms-form button#wpforms-submit-2823:hover {
+	background-color: #fff;
+	border: 1px solid #ce023f;
+	color: #ce023f !important;
+}
+
+
+/*   MEDIA   */
+@media (max-width: 575px){
+	/*https://equipeer.fr/datas/themes/wp-bootstrap-starter/assets/css/style.css / ligne : 889 */
+	/*marge interne du bloc de titre, 1em en top*/
+	#content-header {
+		padding: 1em 1em 0.001em 1.2em !important;
+	}
+	/*https://equipeer.fr/datas/themes/wp-bootstrap-starter/assets/css/style.css  / ligne : 892 */
+	/*taille font du bloc de titre sur mobile*/
+	#content-header h1 {
+		font-size: 2em !important;
+	}
+	/*Blog > Bouton sous le titre > sur les 3 pages du blog*/	
+	.elementor-2183 .elementor-element.elementor-element-435da14,
+	.elementor-2286 .elementor-element.elementor-element-9c753e0,
+	.elementor-2282 .elementor-element.elementor-element-1c6e47ed{
+		margin-top: -30px !important;
+	}
+
+}
+
+
+/*DEPOSEZ VOTRE ANNONCE 24092020
+ supprimer le champ la taille par tranche*/
+#step-2 .form-group:nth-child(0n+7) {
+    display: none !important;
+}
+
+#step-2 #putadStep2 .form-group:nth-child(0n+7) {
+    display: unset !important;
+}
+
+
+/*focus sur button fenetre modale*/
+/*button.swal2-close, button.swal2-close:focus, button.swal2-close:focus-whithin{
+outline: 0 !important;
+}*/
+.swal2-close{
+    /*outline-style: none !important;
+    outline: none !important;*/
+    outline: 0 !important;
+    
+}
+
+
+/*largeur du menu ma selection en header*/
+.dropdown-menu {
+    min-width: 13rem;
+}
+
+/*margin pub desktop*/
+.eq-pub-desktop {
+    margin: 20px 0;
+}
+
+.home .post-thumbnail {
+    margin-bottom: 0;
+}
+
+.content-slider li {
+float: left !important;
+} 

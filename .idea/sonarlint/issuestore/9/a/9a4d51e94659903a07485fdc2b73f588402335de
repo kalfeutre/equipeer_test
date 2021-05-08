@@ -1,0 +1,45 @@
+
+z	php:S1192§"]Define a constant instead of duplicating this literal "equipeer_ad_auto_validate_48" 3 times.(ğçøÀ8¨˜Ÿ‰”/
+Kphp:S121µ"0Add curly braces around the nested statement(s).(¤“ô8¨˜Ÿ‰”/
+R	php:S1172½"0Remove the unused function parameter "$user_id".(»ÓóÀùÿÿÿÿ8¨˜Ÿ‰”/
+k	php:S1192İ"IDefine a constant instead of duplicating this literal "priority" 8 times.(ú™ºÜûÿÿÿÿ8¨˜Ÿ‰”/
+x	php:S1192Ğ"VDefine a constant instead of duplicating this literal "equipeer_text_strings" 3 times.(‹Çáÿÿÿÿÿ8¨˜Ÿ‰”/
+r	php:S1192ò"UDefine a constant instead of duplicating this literal "wp-bootstrap-starter" 3 times.(ÿœ¼â8¨˜Ÿ‰”/
+i	php:S1192"HDefine a constant instead of duplicating this literal "Version" 5 times.(ÈªÛÆıÿÿÿÿ8¨˜Ÿ‰”/
+m	php:S1192M"LDefine a constant instead of duplicating this literal "after_title" 8 times.(Ô­´çüÿÿÿÿ8¨˜Ÿ‰”/
+j	php:S1192Ñ"HDefine a constant instead of duplicating this literal "account" 3 times.(Á×ëøÿÿÿÿ8¨˜Ÿ‰”/
+k	php:S1871Û"IThis case's code block is the same as the block for the case on line 218.(Õ‡ŒÍúÿÿÿÿ8¨˜Ÿ‰”/
+;php:S125Ñ"Remove this commented out code.(µ‰î8¨˜Ÿ‰”/
+Lphp:S121ª"0Add curly braces around the nested statement(s).(‹ÅÁ«8¨˜Ÿ‰”/
+o	php:S1192J"NDefine a constant instead of duplicating this literal "before_widget" 9 times.(»ˆÕÿÿÿÿÿ8¨˜Ÿ‰”/
+p	php:S1192ç"SDefine a constant instead of duplicating this literal "equipeer_h2_widget" 3 times.(¬œÔ¸8¨˜Ÿ‰”/
+Lphp:S121´"0Add curly braces around the nested statement(s).(Æ’¢Ù8¨˜Ÿ‰”/
+n	php:S1192L"MDefine a constant instead of duplicating this literal "before_title" 8 times.(—ëÓ‘øÿÿÿÿ8¨˜Ÿ‰”/
+c	php:S1192ø"FDefine a constant instead of duplicating this literal "title" 9 times.(çÍ‘8¨˜Ÿ‰”/
+k	php:S1192Ò"IDefine a constant instead of duplicating this literal "settings" 3 times.(¾íÓÓùÿÿÿÿ8¨˜Ÿ‰”/
+¸	php:S2681‰"•This statement will not be executed conditionally; only the first statement of this 6-statement block will be. The rest will execute unconditionally.(ãı…âüÿÿÿÿ8¨˜Ÿ‰”/
+Qphp:S121…"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ8¨˜Ÿ‰”/
+>	php:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8¨˜Ÿ‰”/
+Mphp:S836é"2Review the data-flow - use of uninitialized value.(Æ¦ÛP8¨˜Ÿ‰”/
+Qphp:S121ƒ"0Add curly braces around the nested statement(s).(†¡·¸şÿÿÿÿ8¨˜Ÿ‰”/
+o	php:S1192"SDefine a constant instead of duplicating this literal "wp_enqueue_scripts" 4 times.(ø‡Íä8¨˜Ÿ‰”/
+x	php:S1192¶"[Define a constant instead of duplicating this literal "equipeer_new_ads_be_warned" 3 times.(îÚÃ—8¨˜Ÿ‰”/
+r	php:S1192˜"UDefine a constant instead of duplicating this literal "equipeer_xml_feed_fb" 3 times.(µ³´´8¨˜Ÿ‰”/
+O	php:S1172Ó"-Remove the unused function parameter "$text".(Ç•³Ûüÿÿÿÿ8¨˜Ÿ‰”/
+v	php:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(÷äÓøÿÿÿÿ8¨˜Ÿ‰”/
+L	php:S1172?"0Remove the unused function parameter "$content".(„ñİå8¨˜Ÿ‰”/
+Lphp:S121¥"0Add curly braces around the nested statement(s).(ø°ƒì8¨˜Ÿ‰”/
+;php:S125"Remove this commented out code.(·ÌÄû8¨˜Ÿ‰”/
+;php:S125ü"Remove this commented out code.(†®µ‹8¨˜Ÿ‰”/
+x	php:S3923ñ"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ø–Ô8¨˜Ÿ‰”/
+Lphp:S121’"0Add curly braces around the nested statement(s).(§äÒ‚8¨˜Ÿ‰”/
+Lphp:S121‘"0Add curly braces around the nested statement(s).(Æ’¢Ù8¨˜Ÿ‰”/
+i	php:S1192õ"LDefine a constant instead of duplicating this literal "redirect_to" 3 times.(ŠÓ……8¨˜Ÿ‰”/
+Qphp:S121®"0Add curly braces around the nested statement(s).(Í–½±ùÿÿÿÿ8¨˜Ÿ‰”/
+Xphp:S131Ô"7Add a "case default" clause to this "switch" statement.(¡§êúÿÿÿÿ8¨˜Ÿ‰”/
+J	php:S1172?".Remove the unused function parameter "$param".(„ñİå8¨˜Ÿ‰”/
+wphp:S101ì"VRename class "equipeer_h2_widget" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñ˜ûÿÿÿÿ8¨˜Ÿ‰”/
+n	php:S1192K"MDefine a constant instead of duplicating this literal "after_widget" 9 times.(‡½èåúÿÿÿÿ8¨˜Ÿ‰”/
+Q	php:S1172Ó"/Remove the unused function parameter "$domain".(Ç•³Ûüÿÿÿÿ8¨˜Ÿ‰”/
+	php:S1192¥"]Define a constant instead of duplicating this literal "equipeer_save_profile_fields" 3 times.(€©¨ùıÿÿÿÿ8¨˜Ÿ‰”/
+m	php:S1192Õ"PDefine a constant instead of duplicating this literal "wp-user-manager" 7 times.(ú—ÏĞ8¨˜Ÿ‰”/

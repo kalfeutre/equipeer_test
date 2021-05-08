@@ -1,0 +1,4535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-04-16 16:32+0200\n"
+"PO-Revision-Date: 2021-04-16 16:33+0200\n"
+"Last-Translator: INFORMATUX <contact@informatux.com>\n"
+"Language-Team: INFORMATUX\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;_x;esc_html__\n"
+"X-Poedit-SearchPath-0: modules/equipeer\n"
+"X-Poedit-SearchPath-1: datas/themes/wp-bootstrap-starter-child\n"
+"X-Poedit-SearchPath-2: datas/themes/wp-bootstrap-starter\n"
+"X-Poedit-SearchPathExcluded-0: modules/equipeer/assets\n"
+"X-Poedit-SearchPathExcluded-1: modules/equipeer/includes/titan-inc-xml-feed-"
+"facebook.php\n"
+"X-Poedit-SearchPathExcluded-2: datas/themes/wp-bootstrap-starter/assets/js\n"
+"X-Poedit-SearchPathExcluded-3: datas/themes/wp-bootstrap-starter/inc/assets/"
+"js\n"
+"X-Poedit-SearchPathExcluded-4: datas/themes/wp-bootstrap-starter/vendor\n"
+"X-Poedit-SearchPathExcluded-5: datas/themes/wp-bootstrap-starter-child/"
+"assets/js/extend.2020.07.03.js\n"
+"X-Poedit-SearchPathExcluded-6: datas/themes/wp-bootstrap-starter-child/"
+"vendor\n"
+"X-Poedit-SearchPathExcluded-7: datas/themes/wp-bootstrap-starter-child/"
+"assets/js/extend.js\n"
+
+#: datas/themes/wp-bootstrap-starter-child/archive-equine.php:362
+#: datas/themes/wp-bootstrap-starter-child/search.php:992
+msgid "No horses available"
+msgstr "Aucun équidé disponible"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:22
+msgid "Hello !"
+msgstr "Bonjour !"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:24
+msgid "To place an ad, sign in or create your account"
+msgstr "Pour déposer une annonce, connectez-vous ou créez votre compte"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:26
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:259 20210130.php:285 20210130.php:311 20210130.php:338
+#: 20210130.php:365 20210130.php:392 20210130.php:419 20210130.php:627
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:261
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:287
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:313
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:340
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:367
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:394
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:421
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:645
+#: datas/themes/wp-bootstrap-starter/header.php:255
+#: modules/equipeer/classes/shortcodes.php:390
+msgid "Sign in"
+msgstr "Se connecter"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:28
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:261 20210130.php:287 20210130.php:313 20210130.php:340
+#: 20210130.php:367 20210130.php:394 20210130.php:421
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:263
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:289
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:315
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:342
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:369
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:396
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:423
+#: datas/themes/wp-bootstrap-starter/header.php:257
+#: modules/equipeer/classes/shortcodes.php:392
+msgid "Sign up"
+msgstr "S'enregistrer"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:194
+msgid "Put your ad"
+msgstr "Soumettre votre annonce"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:265
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:686
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:1037
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:203
+msgid "Well done"
+msgstr "Bravo"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:266
+msgid ""
+"Your ad has been submitted. You will be notified when your ad is publishing "
+"very soon."
+msgstr ""
+"Votre annonce a été envoyée. Vous serez informé très prochainement de sa "
+"publication."
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:300
+#: modules/equipeer/classes/ajax.php:101
+#: modules/equipeer/classes/shortcodes.php:433
+#: modules/equipeer/includes/functions.php:392
+#: modules/equipeer/includes/functions.php:394
+#: modules/equipeer/includes/functions.php:399
+#: modules/equipeer/includes/functions.php:401
+msgid "Next"
+msgstr "Suivant"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:301
+#: modules/equipeer/classes/ajax.php:102
+msgid "Previous"
+msgstr "Précédent"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:390
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:538
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:136
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:146
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:198
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:35
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:82
+msgid "Email"
+msgstr "Email"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:391
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:539
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:128
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:149
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:201
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:39
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:42
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:236
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:264
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:107
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:74
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:131
+msgid "Phone"
+msgstr "Téléphone"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:434
+msgid "Basic"
+msgstr "Basique"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:434
+msgid "Premium"
+msgstr "Premium"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:444
+msgid "No VAT"
+msgstr "Non assujetti"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:515
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:544
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:551
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:595
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:607
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:613
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:619
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:630
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:636
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:653
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:658
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:662
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:668
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:673
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:678
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:683
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:688
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:542
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:557
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:569
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:389
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:429
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:458
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:459
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:476
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:534
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:537
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:540
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:86
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:893
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:908
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:920
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:267
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:268
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:298
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:311
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:324
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:361
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:374
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:272
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:302
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:315
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:328
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:365
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:378
+msgid "Oops"
+msgstr "Oops"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:515
+msgid "Your phone number is not valid"
+msgstr "Votre numéro de téléphone n'est pas valide"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:533
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:578
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:602
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:625
+msgid "Missing fields:"
+msgstr "Champs manquants :"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:536
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:116
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:27
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:40
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:234
+msgid "Firstname"
+msgstr "Prénom"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:537
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:122
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:31
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:41
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:235
+msgid "Lastname"
+msgstr "Nom"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:540
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:168
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:43
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:43
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:237
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:274
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:279
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:159
+msgid "Address"
+msgstr "Adresse"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:541
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:44
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:238
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:284
+msgid "Postal code"
+msgstr "Code postal"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:542
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:181
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:45
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:239
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:289
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:210
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:214
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:176
+msgid "City"
+msgstr "Ville"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:543
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:186
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:46
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:240
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:294
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:184
+msgid "Country"
+msgstr "Pays"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:544
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:595
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:630
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:668
+msgid "Required fields are missing"
+msgstr "Des champs requis sont manquants"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:551
+msgid "You must choose how to be contacted"
+msgstr "Vous devez indiquer comment vous souhaitez être contacté"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:581
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:70
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:101
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:195
+msgid "Identification number"
+msgstr "N° d'identification"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:582
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:82
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:105
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:207
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:59
+msgid "Horse name"
+msgstr "Nom du cheval"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:583
+#: modules/equipeer/admin/metaboxes/metabox-general.php:279
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:584
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:93
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:585
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:113
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:590
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:608
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:218
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:936
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:550
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:554
+#: modules/equipeer/admin/metaboxes/metabox-general.php:305
+#: modules/equipeer/classes/taxonomies.php:1017
+msgid "Breed"
+msgstr "Race"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:585
+#: datas/themes/wp-bootstrap-starter-child/search.php:543
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:110
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:586
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:117
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:592
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:610
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:236
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:937
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:666
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:670
+#: modules/equipeer/classes/taxonomies.php:1081
+msgid "Color"
+msgstr "Robe"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:586
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:587
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:127
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:145
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:587
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:121
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:593
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:611
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:254
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:273
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:938
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:475
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:479
+#: modules/equipeer/classes/taxonomies.php:1145
+msgid "Size"
+msgstr "Taille"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:588
+#: datas/themes/wp-bootstrap-starter-child/search.php:526
+#: datas/themes/wp-bootstrap-starter-child/search.php:629
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:153
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:125
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:281
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:608
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:612
+msgid "Sex"
+msgstr "Sexe"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:589
+msgid "Category"
+msgstr "Catégorie"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:590
+msgid "Ad type"
+msgstr "Type d'annonce"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:591
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:221
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:351
+msgid "Localization - Postal code"
+msgstr "Localisation - Code postal"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:592
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:226
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:356
+msgid "Localization - City"
+msgstr "Localisation - Ville"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:593
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:231
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:361
+msgid "Localization - Country"
+msgstr "Localisation - Pays"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:594
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:241
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:141
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:574
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:586
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:370
+msgid "Strong points"
+msgstr "Points forts"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:607
+msgid "You must indicate your address in the field<br>Fill in address"
+msgstr ""
+"Vous devez indiquer votre adresse dans le champ<br>Saisissez une adresse"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:613
+msgid "You must choose how your ad will be manage"
+msgstr "Vous devez choisir la manière dont votre annonce sera gérée"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:619
+msgid "The minimum price is 5,000 Euros"
+msgstr "Le prix minimum est de 5.000 Euros"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:628
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:303
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:431
+msgid "NET seller selling price in Euro"
+msgstr "Prix de vente NET vendeur en Euros"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:629
+msgid "subject to VAT"
+msgstr "Assujetti à la TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:636
+msgid "You must indicate VAT rate"
+msgstr "Vous devez indiquer le taux de TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:653
+msgid "You must upload the first photo or wait for it to finish uploading"
+msgstr ""
+"Vous devez télécharger la première photo ou attendre la fin de son "
+"téléchargement"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:658
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:662
+msgid "You must upload the first video or wait for it to finish uploading"
+msgstr ""
+"Vous devez télécharger la première vidéo ou attendre la fin de son "
+"téléchargement"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:673
+msgid "Your video link 1 is not correct"
+msgstr "Le lien de la vidéo 1 est incorrecte"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:678
+msgid "Your video link 2 is not correct"
+msgstr "Le lien de la vidéo 2 est incorrecte"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:683
+msgid "Your video link 3 is not correct"
+msgstr "Le lien de la vidéo 3 est incorrecte"
+
+#: datas/themes/wp-bootstrap-starter-child/deposer-annonce.php:688
+msgid "Your video link 4 is not correct"
+msgstr "Le lien de la vidéo 4 est incorrecte"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:213
+msgid "Mot de passe oubli&eacute; ?"
+msgstr "Mot de passe oubli&eacute; ?"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:214
+msgid "Mot de passe actuel"
+msgstr "Mot de passe actuel"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:215
+msgid "Modifier mon mot de passe"
+msgstr "Modifier mon mot de passe"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:216
+msgid "Retapez votre mot de passe"
+msgstr "Retapez votre mot de passe"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:217
+msgid "Erreur : Mot de passe actuel incorrect"
+msgstr "Erreur : Mot de passe actuel incorrect"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:218
+#: datas/themes/wp-bootstrap-starter-child/functions.php:219
+msgid "Le mot de passe que vous avez saisi est incorrect"
+msgstr "Le mot de passe que vous avez saisi est incorrect"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:242
+#: datas/themes/wp-bootstrap-starter-child/functions.php:244
+msgid "Equipeer Title H2 Widget"
+msgstr "Equipeer Title H2 Widget"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:262
+msgid "Default Title"
+msgstr "Titre par défaut"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:265
+msgid "Title:"
+msgstr "Titre:"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:337
+#: datas/themes/wp-bootstrap-starter-child/functions.php:466
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:93
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:107
+msgid "My profile"
+msgstr "Mon profil"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:370
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:127
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:215
+msgid "Address / Phone"
+msgstr "Adresse / Téléphone"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:374
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:21
+msgid "Saved searches"
+msgstr "Recherches sauvegardées"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:378
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:25
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:95
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:109
+msgid "My selection"
+msgstr "Ma sélection"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:382
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selections-sent.php:24
+msgid "Selections sent"
+msgstr "Sélections envoyées"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:386
+#: datas/themes/wp-bootstrap-starter-child/functions.php:464
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-messaging.php:15
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/forms-messaging.php:15
+msgid "My messages"
+msgstr "Mes messages"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:390
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:17
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:98
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:111
+msgid "My ads"
+msgstr "Mes annonces"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:394
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-document.php:24
+msgid "My documents"
+msgstr "Mes documents"
+
+#: datas/themes/wp-bootstrap-starter-child/functions.php:467
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:99
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:112
+msgid "Manage my password"
+msgstr "Gérer mon mot de passe"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:371
+#: modules/equipeer/classes/taxonomies.php:539
+#: modules/equipeer/classes/taxonomies.php:553
+#: modules/equipeer/classes/taxonomies.php:852
+msgid "Disciplines"
+msgstr "Catégories"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:389
+#, php-format
+msgid "Age : From %s to %s year"
+msgstr "Age : De %s à %s an"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:389
+#: datas/themes/wp-bootstrap-starter-child/search.php:609
+#, php-format
+msgid "Age : From %s to %s years"
+msgstr "Age : De %s à %s ans"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:396
+#, php-format
+msgid "Age : %s year"
+msgstr "Age : %s an"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:399
+#, php-format
+msgid "Age : %s years"
+msgstr "Age : %s ans"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:412
+#: modules/equipeer/classes/taxonomies.php:952
+#: modules/equipeer/classes/taxonomies.php:966
+#: modules/equipeer/core/class-equipeer.php:962
+msgid "Potentials"
+msgstr "Potentiels"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:430
+#: datas/themes/wp-bootstrap-starter-child/search.php:615
+#: datas/themes/wp-bootstrap-starter-child/search.php:616
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/archive-card.php:83
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:555
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:567
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:193
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:197
+#: modules/equipeer/admin/bulk-actions.php:134
+#: modules/equipeer/admin/bulk-actions.php:249
+#: modules/equipeer/admin/bulk-actions.php:250
+#: modules/equipeer/admin/columns.php:96
+#: modules/equipeer/admin/metaboxes/metabox-price.php:38
+msgid "Price"
+msgstr "Prix"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:432
+#: datas/themes/wp-bootstrap-starter-child/search.php:618
+#, php-format
+msgid "Between %s &euro; and %s &euro;"
+msgstr "Entre %s &euro; et %s &euro;"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:436
+#: datas/themes/wp-bootstrap-starter-child/search.php:622
+#, php-format
+msgid "From %s &euro;"
+msgstr "A partir de %s &euro;"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:447
+msgid "Ads type"
+msgstr "Type d'annonces"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:450
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:405
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:409
+msgid "Certified horses - Basic offer"
+msgstr "Chevaux certifiés - Offre basique"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:455
+msgid "and"
+msgstr "et"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:458
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:400
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:404
+msgid "Appraised horses - Premium offer"
+msgstr "Chevaux expertisés - Offre premium"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:468
+#: datas/themes/wp-bootstrap-starter-child/search.php:590
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:120
+#: modules/equipeer/classes/taxonomies.php:811
+msgid "Level"
+msgstr "Niveau"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:485
+#: modules/equipeer/classes/taxonomies.php:1144
+#: modules/equipeer/classes/taxonomies.php:1158
+#: modules/equipeer/core/class-equipeer.php:989
+msgid "Sizes"
+msgstr "Tailles"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:502
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:533
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:537
+msgid "Perennial origin"
+msgstr "Origine paternelle"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:509
+#: modules/equipeer/classes/taxonomies.php:1016
+#: modules/equipeer/classes/taxonomies.php:1030
+#: modules/equipeer/core/class-equipeer.php:971
+msgid "Breeds"
+msgstr "Races"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:561
+#: datas/themes/wp-bootstrap-starter-child/search.php:652
+#, php-format
+msgid "Within a radius of %s km"
+msgstr "Dans un rayon de %s km"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:562
+#: datas/themes/wp-bootstrap-starter-child/search.php:653
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:137
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:219
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:223
+msgid "Localization"
+msgstr "Localisation"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:570
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:130
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selections-sent.php:41
+#: modules/equipeer/admin/columns.php:95
+msgid "Reference"
+msgstr "Référence"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:580
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:173
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:129
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:589
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:607
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:302
+#: modules/equipeer/admin/columns.php:97
+#: modules/equipeer/admin/metaboxes/metabox-general.php:227
+#: modules/equipeer/classes/taxonomies.php:540
+msgid "Discipline"
+msgstr "Catégorie"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1035
+msgid ""
+"Sorry, we don't have any equine available online matching your search "
+"criteria."
+msgstr ""
+"Désolé, nous n'avons pas d'équidé disponible en ligne correspondant à vos "
+"critères de recherche."
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1043
+msgid "But we have 1 horse which correspond in our Off-market catalog."
+msgstr ""
+"Mais nous avons 1 cheval qui correspond dans notre catalogue off-market."
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1045
+#, php-format
+msgid "But we have %s horses which correspond in our Off-market catalog."
+msgstr ""
+"Mais nous avons %s chevaux qui correspondent dans notre catalogue off-market."
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1054
+msgid ""
+"To be alerted by email when a horse corresponding to your criteria is put "
+"online"
+msgstr ""
+"Pour être alerté par email dès la mise en ligne d'un cheval correspondant à "
+"vos critères"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1060
+msgid "Transmit my purchase project to the EQUIPEER SPORT team"
+msgstr "Transmettre mon projet d'achat à l'équipe d'Equipeer SPORT"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1072
+msgid ""
+"To send us your request and / or have more information about the horses in "
+"the off-market catalog that meet your criteria"
+msgstr ""
+"Pour nous transmettre votre requête et/ou avoir plus d'informations sur les "
+"chevaux du catalogue off-market qui correspondent à vos critères"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1192
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-menu.php:5
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:17
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:21
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search.php:6
+#: modules/equipeer/includes/functions.php:895
+msgid "Search"
+msgstr "Recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1195
+msgid "Search by reference"
+msgstr "Recherche par référénce"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1198
+msgid "Search your horse"
+msgstr "Trouvez votre cheval"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1204
+msgid "With your search criteria"
+msgstr "Avec vos critères de recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1204
+msgid "Founds"
+msgstr "Trouvées"
+
+#: datas/themes/wp-bootstrap-starter-child/search.php:1206
+msgid "Your search criteria"
+msgstr "Vos critères de recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/footer-page.php:12
+msgid "Frequently asked questions"
+msgstr "Questions fréquemment posées"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/footer-page.php:16
+msgid "You have a question?"
+msgstr "Vous avez une question ?"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/footer-page.php:16
+msgid "Select the corresponding section."
+msgstr "Sélectionnez la section correspondante."
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:56
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:50
+msgid "Invalid number"
+msgstr "Numéro invalide"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:56
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:50
+msgid "Invalid country code"
+msgstr "Code de pays non valide"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:56
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:50
+msgid "Too short"
+msgstr "Trop court"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:56
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:50
+msgid "Too long"
+msgstr "Trop long"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:112
+msgid "Seller Information"
+msgstr "Coordonnées du vendeur"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:131
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:268
+msgid "Valid"
+msgstr "Valide"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:143
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:195
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:47
+msgid "I prefer to be contacted by"
+msgstr "Je préfère être contacté par"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:154
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:351
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:291
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:121
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-login.php:83
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-registration.php:53
+#, php-format
+msgid "%s required fields"
+msgstr "%s champs obligatoires"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:159
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:207
+msgid "Fill in city"
+msgstr "Saisissez une ville"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:164
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:212
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:220
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:224
+msgid "Indicate a city"
+msgstr "Saisissez votre ville"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step1.php:176
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:168
+msgid "Zip"
+msgstr "Code postal"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:66
+msgid "Horse General Information"
+msgstr "Informations générales"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:71
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:196
+msgid ""
+"Only for equines registered in France, once the SIRE number (without the "
+"letter) entered > validate with the \"OK\" button and some of the fields are "
+"automatically filled with the corresponding information"
+msgstr ""
+"Uniquement pour les équidés immatriculés en France, une fois le N° SIRE "
+"(sans la lettre) entré > validez avec le bouton \"OK\" et une partie des "
+"champs se remplissent automatiquement avec les informations correspondantes"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:87
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:583
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:109
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:212
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:934
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:87
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:285
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:212
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:699
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-JJ"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:88
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:284
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:213
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:698
+msgid "click on the icon"
+msgstr "Cliquez sur l'icône"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:95
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:220
+msgid "Choose breed"
+msgstr "Choisissez une race"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:112
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:238
+msgid "Choose color"
+msgstr "Choisissez une robe"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:129
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:256
+msgid "Choose size"
+msgstr "Choisissez une taille"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:155
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:283
+msgid "Choose sex"
+msgstr "Choisissez un sexe"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:175
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:304
+msgid "Choose category"
+msgstr "Choisissez une catégorie"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:190
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:133
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:320
+#: modules/equipeer/admin/columns.php:93
+msgid "Type"
+msgstr "Type"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:192
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:322
+msgid "Choose an equine type"
+msgstr "Choisissez un type d'équidé"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:242
+msgid "Describe your horse in 280 characters maximum"
+msgstr "Décrivez votre cheval en 280 caractères maximum"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:249
+msgid "Expertise EQUIPEER with my horse"
+msgstr "Choix de l'offre de service"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:259
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:386
+msgid "BASIC Offer"
+msgstr "Offre BASIQUE"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:260
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:263
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:387
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:390
+msgid "Free ad management"
+msgstr "Autonomie - chevaux certifiés"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:271
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:398
+msgid "PREMIUM Offer"
+msgstr "Offre PREMIUM"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:272
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:275
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:399
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:402
+msgid "Management of the ad by EQUIPEER"
+msgstr "Accompagnement sur mesure - chevaux expertisés"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:285
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:412
+msgid "Horse selling price"
+msgstr "Prix de vente"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:292
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:419
+msgid "The horse is subject to VAT"
+msgstr "Le cheval est assujetti à la TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:295
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:423
+msgid "The horse is not subject to VAT"
+msgstr "Le cheval n'est pas assujetti à la TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:303
+msgid "excluding VAT"
+msgstr "hors TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:308
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:436
+msgid "Minimum 5 000&euro;"
+msgstr "Minimum 5 000&euro;"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:315
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:153
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:443
+msgid "VAT"
+msgstr "TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:325
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:453
+msgid "Free deposit sale price"
+msgstr "Prix final - offre <strong style=\"color: #0e2d4c;\">basique</strong>"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:325
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:453
+msgid "Selling price in appraised deposit"
+msgstr "Prix final - offre <strong style=\"color: #d1023e;\">premium</span>"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:332
+msgid "Price including VAT, Equipeer SPORT fees included"
+msgstr "Prix TTC frais Equipeer SPORT inclus"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:346
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:474
+msgid "Your horse will be displayed in the price range:"
+msgstr "Votre cheval sera affiché dans la tranche de prix :"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:472
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:473
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:474
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:475
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:823
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:824
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:825
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:826
+msgid "to"
+msgstr "à"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:542
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:893
+msgid "You must enter a SIRE to perform a search"
+msgstr "Vous devez saisir un SIRE pour effectuer une recherche."
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:557
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:908
+msgid "The SIRE number must be 8 digits"
+msgstr "Le numéro SIRE doit comporter 8 chiffres"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:569
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:920
+msgid "No information concerning this SIRE number"
+msgstr "Aucune information concernant ce numéro SIRE"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:584
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:935
+msgid "Name"
+msgstr "Nom"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:588
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:591
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:609
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:939
+#: modules/equipeer/admin/metaboxes/metabox-general.php:332
+#: modules/equipeer/classes/taxonomies.php:683
+msgid "Gender"
+msgstr "Sexe"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:594
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:945
+msgid "SIRE Result"
+msgstr "Résultat SIRE"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:600
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:678
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:708
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:951
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:104
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:149
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:363
+msgid "Yes"
+msgstr "Oui"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:601
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:678
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:708
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:952
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:106
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:364
+msgid "No"
+msgstr "Non"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step2.php:686
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:1037
+msgid "Inserted data"
+msgstr "Données insérées"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:59
+msgid "Photos, videos and document of the horse"
+msgstr "Photos, vidéos & documents vétérinaires"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:85
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:156
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:237
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:499
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:570
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:651
+msgid "Add"
+msgstr "Ajouter"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:95
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:166
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:247
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:509
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:580
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:661
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:88
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:110
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:132
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:187
+msgid "Remove"
+msgstr "Supprimer"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:171
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:585
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:74
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:89
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:104
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:119
+msgid "OR"
+msgstr "OU"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:176
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:590
+msgid "Youtube or Vimeo link"
+msgstr "Lien Youtube ou Vimeo"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:283
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:697
+msgid "Date of last veterinary visit"
+msgstr "Date de la dernière visite vétérinaire"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:389
+msgid "Please choose a valid file"
+msgstr "Choisissez un fichier autorisé"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:389
+msgid "Type of your video: "
+msgstr "Type de votre vidéo : "
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:429
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:540
+msgid "File is too large"
+msgstr "La taille du fichier est trop importante"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:458
+msgid "Error Unknown"
+msgstr "Erreur inconnue"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:476
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:531
+msgid "Error TMP Directory"
+msgstr "Erreur répertoire temporaire"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:525
+msgid "File has uploaded successfully!"
+msgstr "Fichier transféré !"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:534
+msgid "File extension not allowed"
+msgstr "L'extension du fichier n'est pas autorisée"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step3.php:537
+msgid "Empty file"
+msgstr "Fichier vide"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:65
+#: modules/equipeer/admin/metaboxes/metabox-images.php:39
+msgid "Photos"
+msgstr "Photos"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:69
+msgid "Videos (upload)"
+msgstr "Vidéos (upload)"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:73
+msgid "Videos (link)"
+msgstr "Vidéos (liens)"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:77
+msgid "Document"
+msgstr "Document"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:81
+msgid "Date of veterinary report"
+msgstr "Date du compte rendu vétérinaire"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:145
+#: modules/equipeer/admin/metaboxes/metabox-general.php:181
+msgid "Ad Type"
+msgstr "Choix de l'offre"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:149
+msgid "NET seller selling price"
+msgstr "Prix de vente NET vendeur"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:157
+msgid "Price including tax, Equipeer SPORT fees included"
+msgstr "Prix TTC frais Equipeer SPORT inclus"
+
+#: datas/themes/wp-bootstrap-starter-child/template-parts/putad-step4.php:161
+msgid "Price range"
+msgstr "Tranche de prix"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:256 20210130.php:282 20210130.php:308 20210130.php:335
+#: 20210130.php:362 20210130.php:389 20210130.php:416
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:258
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:284
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:310
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:337
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:364
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:391
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:418
+#: datas/themes/wp-bootstrap-starter/header.php:243
+#: modules/equipeer/classes/shortcodes.php:387
+msgid "You're not logged in?"
+msgstr "Vous n'êtes pas connecté ?"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:257 20210130.php:283 20210130.php:309 20210130.php:336
+#: 20210130.php:363 20210130.php:390 20210130.php:417
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:259
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:285
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:311
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:338
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:365
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:392
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:419
+#: modules/equipeer/classes/shortcodes.php:388
+msgid "This functionality is reserved for connected users"
+msgstr "Cette fonctionnalité est réservée aux utilisateurs connectés"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:258 20210130.php:284 20210130.php:310 20210130.php:337
+#: 20210130.php:364 20210130.php:391 20210130.php:418
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:260
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:286
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:312
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:339
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:366
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:393
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:420
+#: datas/themes/wp-bootstrap-starter/header.php:254
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-menu.php:13
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search.php:12
+#: modules/equipeer/classes/shortcodes.php:389
+msgid "Close"
+msgstr "Fermer"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:551
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:563
+#: modules/equipeer/admin/bulk-actions.php:133
+#: modules/equipeer/admin/bulk-actions.php:248
+msgid "Tax included"
+msgstr "TTC"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:551
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:563
+#: modules/equipeer/admin/bulk-actions.php:133
+#: modules/equipeer/admin/bulk-actions.php:248
+msgid "without VAT"
+msgstr "sans TVA"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:574
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:586
+msgid "The expert's opinion"
+msgstr "L'avis de l'expert"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:579
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:597
+msgid "No expert's opinion"
+msgstr "Pas d'avis d'expert"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:595
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:613
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:117
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:121
+#: modules/equipeer/admin/columns.php:94
+#: modules/equipeer/admin/metaboxes/metabox-general.php:297
+#: modules/equipeer/classes/taxonomies.php:747
+msgid "Age"
+msgstr "Age"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:598
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:616
+msgid "General informations"
+msgstr "Informations générales"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:625
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:643
+msgid "The rest is reserved for connected users."
+msgstr "Le reste est réservé aux utilisateurs connectés."
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:626
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:644
+msgid "Already a Equipeer SPORT account?"
+msgstr "Déjà un compte Equipeer SPORT ?"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:637
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:655
+msgid ""
+"Access the <strong>full description of the horse</strong>: price, origin, "
+"skills & qualities, location, etc."
+msgstr ""
+"Accédez à la <strong>description complète du cheval</strong> : prix, "
+"origine, compétences et qualités, emplacement, etc."
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:647
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:665
+msgid ""
+"Take advantage of <strong>all the features of our site</strong>: saving and "
+"sending a selection, search alerts, etc."
+msgstr ""
+"Profitez de <strong>toutes les fonctionnalités de notre site </strong> : "
+"enregistrement et envoi d'une sélection, alertes de recherche, etc."
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:655
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:673
+msgid "Create a free account"
+msgstr "Créer un compte gratuit"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:673
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:703
+msgid "Origin"
+msgstr "Origine"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:674
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:704
+msgid "Skills & qualities"
+msgstr "Compétences et qualités"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:675
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:705
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:417
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:421
+#: modules/equipeer/admin/bulk-actions.php:170
+#: modules/equipeer/admin/bulk-actions.php:286
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:94
+msgid "Actual level"
+msgstr "Niveau actuel"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:676
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:706
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:135
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:139
+#: modules/equipeer/admin/bulk-actions.php:172
+#: modules/equipeer/admin/bulk-actions.php:288
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:128
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:154
+#: modules/equipeer/classes/taxonomies.php:953
+#: modules/equipeer/includes/functions.php:505
+#: modules/equipeer/includes/functions.php:533
+msgid "Potential"
+msgstr "Potentiel"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:677
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:707
+msgid "Rider profile"
+msgstr "Profil du cavalier"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:678
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:708
+msgid "Radio report"
+msgstr "Bilan radio"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:682
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:712
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:36
+msgid "Detailed description"
+msgstr "Descriptif détaillé"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:712
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:742
+#: modules/equipeer/admin/bulk-actions.php:169
+#: modules/equipeer/admin/bulk-actions.php:285
+msgid "Localisation"
+msgstr "Localisation"
+
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page BACK
+#: 20210130.php:751
+#: datas/themes/wp-bootstrap-starter-child/templates/equine/single-page.php:783
+msgid "No information about localisation"
+msgstr "Aucune information sur la localisation"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/already-logged-in.php:27
+#, php-format
+msgid "You are currently logged in as %s."
+msgstr "Vous êtes actuellement connecté en tant que %s."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/form-fields/password-field.php:33
+msgid ""
+"Password must be at least 8 characters long and contain at least 1 number "
+"and 1 uppercase letter and 1 special character."
+msgstr ""
+"Le mot de passe doit comporter au moins 8 caractères et contenir au moins : "
+"1 chiffre, 1 majuscule et 1 caractère spécial."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:50
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:244
+msgid "Fill in the following fields in order to use the site"
+msgstr ""
+"Merci de renseigner les informations suivantes, pour pouvoir utiliser notre "
+"site de façon optimale"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:58
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:27
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-messaging.php:21
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/forms-messaging.php:21
+msgid "Profile successfully updated."
+msgstr "Profil mis à jour avec succès."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-account.php:66
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-password.php:27
+msgid "Password successfully updated."
+msgstr "Mot de passe mis à jour avec succès."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:87
+msgid "Phone error"
+msgstr "Numéro de téléphone erroné"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-address.php:215
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:60
+#, php-format
+msgid "%s successfully updated"
+msgstr "%s mis à jour avec succès"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:43
+msgid "This ad is no longer available"
+msgstr "Cette annonce n'est plus disponible"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:337
+msgid "Fill in address"
+msgstr "Saisissez une adresse"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads-edit.php:371
+msgid "Describe your horse in 140 characters maximum"
+msgstr "Décrivez votre cheval en 140 caractères maximum"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:50
+msgid "No ads found"
+msgstr "Aucune annonce trouvée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:57
+#: modules/equipeer/classes/taxonomies.php:582
+msgid "Image"
+msgstr "Image"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:58
+msgid "Submitted on"
+msgstr "Déposée le"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:60
+msgid "Status"
+msgstr "Etat"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:61
+msgid "Actions"
+msgstr "Actions"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:95
+#: modules/equipeer/classes/taxonomies.php:1470
+#: modules/equipeer/includes/functions.php:509
+#: modules/equipeer/includes/functions.php:537
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:96
+msgid "Publish"
+msgstr "Publiée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:97
+msgid "Pending"
+msgstr "En attente"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:137
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:139
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:137
+msgid "Edit"
+msgstr "Modifier"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:137
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:139
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:168
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:207
+msgid "Removal request"
+msgstr "Demande de suppression"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:150
+msgid "Demande de suppression en cours"
+msgstr "Demande de suppression en cours"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:169
+msgid "You want to delete your ad for what reason?"
+msgstr "Vous souhaitez supprimer votre annonce pour quelle raison ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:173
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:187
+msgid "I sold my horse with EQUIPEER"
+msgstr "J'ai vendu mon cheval avec EQUIPEER"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:174
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:188
+msgid "I sold my horse without going through EQUIPEER"
+msgstr "J'ai vendu mon cheval sans passer par EQUIPEER"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:175
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:189
+msgid "I did not find a buyer for my horse"
+msgstr "Je n'ai pas trouvé d'acquéreur pour mon cheval"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:176
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:190
+msgid "I just want to delete my ad"
+msgstr "Je souhaite juste supprimer mon annonce"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:178
+msgid "Validate"
+msgstr "Valider"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:182
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:134
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:150
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:242
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:187
+#: modules/equipeer/classes/shortcodes.php:321
+msgid "Cancel"
+msgstr "Annuler"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:208
+msgid "You have chosen to delete your ad for the following reason:"
+msgstr "Vous avez choisi de supprimer votre annonce pour la raison suivante :"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-ads.php:208
+msgid ""
+"The EQUIPEER administrators take note of your request and very soon confirm "
+"the deletion of your ad."
+msgstr ""
+"Les administrateurs d'EQUIPEER prennent note de votre demande et vous "
+"confirment tr&egrave;s bient&ocirc;t la suppression de votre annonce."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-document.php:33
+msgid "No document found"
+msgstr "Aucun document trouvé"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-document.php:40
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:85
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selections-sent.php:40
+msgid "Date"
+msgstr "Date"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-document.php:41
+msgid "File to download"
+msgstr "Sélections à télécharger"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-document.php:51
+msgid "Selections"
+msgstr "Sélections"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-password.php:61
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:33
+#, php-format
+msgid "%s successfully deleted"
+msgstr "%s supprimé"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:33
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:39
+msgid "Saved search"
+msgstr "Recherche sauvegardée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:39
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:66
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:99
+#, php-format
+msgid "An error occured while deleting your %s"
+msgstr "Une erreur s'est produite lors de la suppression de votre %s"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:60
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:66
+msgid "Search notification"
+msgstr "Notification de recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:78
+msgid "No saved search found"
+msgstr "Aucune recherche sauvegardée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:86
+msgid "Search name"
+msgstr "Nom de la recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:87
+msgid "Be notified as soon as an ad matches my search"
+msgstr "Etre averti dès qu'une annonce correspond à ma recherche"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:98
+msgid "See saved search"
+msgstr "Voir la recherche sauvegardée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:104
+msgid "Do you no longer wish to be notified for this search?"
+msgstr "Vous souhaitez ne plus être averti pour cette recherche ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:106
+msgid "Do you wish to be notified for this search?"
+msgstr "Vous souhaitez être averti pour cette recherche ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:127
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:143
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:235
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:128
+msgid "Remove this saved search?"
+msgstr "Supprimer cette recherche sauvegardée ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-searches.php:133
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:241
+msgid "Yes, delete it!"
+msgstr "Oui, le supprimer !"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:56
+msgid ""
+"Your selection has been sent to EQUIPEER, we will get back to you quickly"
+msgstr ""
+"Votre sélection a bien été envoyée à la team EQUIPEER SPORT, nous allons "
+"prendre contact avec vous"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:61
+msgid ""
+"An error has occurred since sending your selection to EQUIPEER, please resend"
+msgstr ""
+"Une erreur est survenue lors de l'envoi de votre sélection à EQUIPEER, "
+"veuillez la renvoyer à nouveau"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:93
+msgid "Selection successfully deleted"
+msgstr "Sélection supprimée"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:99
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:128
+#: modules/equipeer/classes/ajax.php:155
+msgid "Selection"
+msgstr "Sélection"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:109
+msgid ""
+"Before sending us your selection, give us your phone number so that we can "
+"contact you more quickly"
+msgstr ""
+"Avant de nous envoyer votre sélection, indiquez-nous votre numéro de "
+"téléphone afin que nous puissions vous contacter plus rapidement"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:109
+msgid "Fill in your phone number here"
+msgstr "Remplissez votre numéro de téléphone ici"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:121
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selections-sent.php:33
+msgid "No selection found"
+msgstr "Aucune sélection"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:129
+msgid "Photo"
+msgstr "Photo"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:131
+#: modules/equipeer/classes/taxonomies.php:1464
+#: modules/equipeer/includes/functions.php:75
+#: modules/equipeer/includes/functions.php:147
+msgid "Horse"
+msgstr "Cheval"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:145
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selections-sent.php:55
+#: modules/equipeer/admin/columns.php:100
+#: modules/equipeer/admin/columns.php:407
+#: modules/equipeer/admin/metaboxes/metabox-general.php:142
+msgid "Sold"
+msgstr "Vendu"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:184
+msgid "See horse"
+msgstr "Voir le cheval"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:223
+msgid "Send my selection to EQUIPEER"
+msgstr "Envoyer ma sélection à EQUIPEER"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:236
+msgid "Remove this horse from your selection?"
+msgstr "Supprimer ce cheval de votre sélection ?"
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/forms/form-selection.php:268
+msgid "Choose the references you want to send us."
+msgstr "Choisissez les références que vous souhaitez nous envoyer."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/messages/password-reset-request-success.php:24
+#, php-format
+msgid "We've sent an email to %s with password reset instructions."
+msgstr ""
+"Nous avons envoyé un e-mail à %s avec les instructions de réinitialisation "
+"du mot de passe."
+
+#: datas/themes/wp-bootstrap-starter-child/wpum/messages/password-reset-request-success.php:27
+#, php-format
+msgid ""
+"If the email doesn't show up soon, check your spam folder. We sent it from "
+"%s."
+msgstr ""
+"Si l'email ne s'affiche pas bientôt, vérifiez votre dossier spam. Nous "
+"l'avons envoyé depuis %s."
+
+#: datas/themes/wp-bootstrap-starter/comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Une réflexion sur &ldquo;%1$s&rdquo;"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:55
+#: datas/themes/wp-bootstrap-starter/comments.php:73
+msgid "Older Comments"
+msgstr "Commentaires plus ancients"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:56
+#: datas/themes/wp-bootstrap-starter/comments.php:74
+msgid "Newer Comments"
+msgstr "Nouveaux commentaires"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:94
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:96
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:97
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:98
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+#: datas/themes/wp-bootstrap-starter/comments.php:103
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+
+#: datas/themes/wp-bootstrap-starter/footer.php:41
+msgid "Hello ! How can we help you?"
+msgstr "Hello ! How can we help you?"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:47
+msgid "Primary"
+msgstr "Principal"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:87
+#, php-format
+msgid ""
+"Welcome to WP Bootstrap Starter Theme! Before diving in to your new theme, "
+"please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" "
+"target=\"_blank\">theme's</a> page for access to dozens of tips and in-depth "
+"tutorials."
+msgstr ""
+"Welcome to WP Bootstrap Starter Theme! Before diving in to your new theme, "
+"please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" "
+"target=\"_blank\">theme's</a> page for access to dozens of tips and in-depth "
+"tutorials."
+
+#: datas/themes/wp-bootstrap-starter/functions.php:122
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:124
+#: datas/themes/wp-bootstrap-starter/functions.php:133
+#: datas/themes/wp-bootstrap-starter/functions.php:142
+#: datas/themes/wp-bootstrap-starter/functions.php:151
+#: datas/themes/wp-bootstrap-starter/functions.php:160
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: datas/themes/wp-bootstrap-starter/functions.php:131
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:140
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:149
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:158
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:279
+msgid "To view this protected post, enter the password below:"
+msgstr "Pour afficher cet article protégé, entrez le mot de passe ci-dessous:"
+
+#: datas/themes/wp-bootstrap-starter/functions.php:280
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: datas/themes/wp-bootstrap-starter/header.php:46
+msgid "Horse sale"
+msgstr "Vente cheval"
+
+#: datas/themes/wp-bootstrap-starter/header.php:156
+msgid "In progress..."
+msgstr "En cours..."
+
+#: datas/themes/wp-bootstrap-starter/header.php:193
+#: datas/themes/wp-bootstrap-starter/header.php:206
+msgid "Continue to Equipeer SPORT"
+msgstr "Continuer vers Equipeer SPORT"
+
+#: datas/themes/wp-bootstrap-starter/header.php:244
+msgid "More Features"
+msgstr "Plus de fonctionnalités"
+
+#: datas/themes/wp-bootstrap-starter/header.php:284
+#: datas/themes/wp-bootstrap-starter/header.php:285
+#: datas/themes/wp-bootstrap-starter/header.php:286
+#: datas/themes/wp-bootstrap-starter/header.php:287
+#: datas/themes/wp-bootstrap-starter/template-parts/footer-colophon-socials.php:9
+#: datas/themes/wp-bootstrap-starter/template-parts/footer-colophon-socials.php:10
+#: datas/themes/wp-bootstrap-starter/template-parts/footer-colophon-socials.php:11
+#: datas/themes/wp-bootstrap-starter/template-parts/footer-colophon-socials.php:12
+msgid "Follow us on"
+msgstr "Suivez-nous sur"
+
+#: datas/themes/wp-bootstrap-starter/header.php:345
+#: datas/themes/wp-bootstrap-starter/header.php:420
+#: datas/themes/wp-bootstrap-starter/header.php:449
+msgid ""
+"To customize the contents of this header banner and other elements of your "
+"site, go to Dashboard > Appearance > Customize"
+msgstr ""
+"Pour personnaliser le contenu de cette bannière d'en-tête et d'autres "
+"éléments de votre site, allez dans Tableau de bord > Apparence > "
+"Personnaliser"
+
+#: datas/themes/wp-bootstrap-starter/header.php:355
+#: datas/themes/wp-bootstrap-starter/header.php:365
+#: datas/themes/wp-bootstrap-starter/header.php:404
+#: datas/themes/wp-bootstrap-starter/header.php:433
+msgid "I want to find a horse, a pony or a reference ..."
+msgstr "Je veux trouver un cheval, un poney ou une référence ..."
+
+#: datas/themes/wp-bootstrap-starter/header.php:357
+#: datas/themes/wp-bootstrap-starter/header.php:372
+#: datas/themes/wp-bootstrap-starter/header.php:423
+#: datas/themes/wp-bootstrap-starter/header.php:457
+msgid "See all ads"
+msgstr "Voir toutes les annonces"
+
+#: datas/themes/wp-bootstrap-starter/header.php:369
+#: datas/themes/wp-bootstrap-starter/header.php:454
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:61
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:62
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:66
+msgid "Submit your ad"
+msgstr "Déposez votre annonce"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:26
+msgid "Preset Styles"
+msgstr "Styles prédéfinis"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:39
+msgid "Theme Option"
+msgstr "Option de thème"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:77
+msgid "Typography"
+msgstr "Typographie"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:123
+msgid "Topbar"
+msgstr "Topbar"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:205
+msgid "Navbar"
+msgstr "Navbar"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:241
+msgid "Header Banner"
+msgstr "Header Banner"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:248
+msgid "Header Image"
+msgstr "Header Image"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:266
+msgid "Header Banner Background Color"
+msgstr "Header Banner Background Color"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:273
+msgid "WP Bootstrap Framework"
+msgstr "WP Bootstrap Framework"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:277
+msgid "Banner Title"
+msgstr "Banner Title"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:284
+msgid ""
+"To customize the contents of this header banner and other elements of your "
+"site go to Dashboard - Appearance - Customize"
+msgstr ""
+"Pour personnaliser le contenu de cette bannière d'en-tête et d'autres "
+"éléments de votre site, accédez à Tableau de bord - Apparence - Personnaliser"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:288
+msgid "Banner Tagline"
+msgstr "Banner Tagline"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:300
+msgid "Two buttons in search Banner"
+msgstr "Deux boutons dans la recherche Bannière"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:312
+msgid "Remove Header Banner"
+msgstr "Supprimer la bannière d'en-tête"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:324
+msgid "Other Customizations"
+msgstr "Autres personnalisations"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:333
+msgid "Background Color"
+msgstr "Couleur de l'arrière plan"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:343
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:351
+msgid "no"
+msgstr "non"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:357
+msgid "Use CDN for Assets"
+msgstr "Utiliser CDN pour les actifs"
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:358
+msgid "All Bootstrap Assets and FontAwesome will be loaded in CDN."
+msgstr "Tous les actifs Bootstrap et FontAwesome seront chargés en CDN."
+
+#: datas/themes/wp-bootstrap-starter/inc/customizer.php:383
+msgid "Upload Logo (replaces text)"
+msgstr "Télécharger le logo (remplace le texte)"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:40
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:55
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:61
+msgid ", "
+msgstr ", "
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:57
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:63
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Marqué %1$s"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:71
+#: datas/themes/wp-bootstrap-starter/template-parts/content-page.php:42
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:137
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:152
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:156
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:159
+msgid ""
+"<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> "
+"Edit"
+msgstr ""
+"<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> "
+"Modifier"
+
+#: datas/themes/wp-bootstrap-starter/inc/template-tags.php:164
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: datas/themes/wp-bootstrap-starter/inc/wp_bootstrap_navwalker.php:357
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: datas/themes/wp-bootstrap-starter/search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour : %s"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: datas/themes/wp-bootstrap-starter/template-parts/content-notitle.php:30
+#: datas/themes/wp-bootstrap-starter/template-parts/content.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/content-notitle.php:34
+#: datas/themes/wp-bootstrap-starter/template-parts/content-page.php:30
+#: datas/themes/wp-bootstrap-starter/template-parts/content.php:40
+msgid "Pages:"
+msgstr "Pages :"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:74
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:76
+msgid "Search a horse"
+msgstr "Rechercher un cheval"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:83
+msgid "My Account"
+msgstr "Mon compte"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:90
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:92
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:106
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:94
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:108
+msgid "My searches"
+msgstr "Mes recherches"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:96
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:110
+msgid "Messaging"
+msgstr "Messagerie"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:103
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:144
+msgid "Log in"
+msgstr "S'identifier"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:104
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:146
+msgid "New client?"
+msgstr "Nouveau client ?"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:104
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:146
+msgid "Create an account"
+msgstr "Créer un compte"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:121
+msgid "My Selections"
+msgstr "Mes sélections"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:137
+#: modules/equipeer/classes/shortcodes.php:341
+msgid "See my selection"
+msgstr "Voir ma sélection"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:138
+#: modules/equipeer/classes/shortcodes.php:366
+msgid "Send my selection"
+msgstr "Envoyer ma sélection"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:142
+#: modules/equipeer/includes/functions.php:888
+msgid "You don't have selection"
+msgstr "Vous n'avez pas de sélection"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:159
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:166
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:168
+msgid "Language"
+msgstr "Langage"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:182
+msgid "Send your selection"
+msgstr "Envoyez votre sélection"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:183
+msgid "Send my selection to a EQUIPEER coach"
+msgstr "Envoyer ma sélection à un sélectionneur EQUIPEER"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:186
+msgid "Yes send it!"
+msgstr "Oui, envoyez-la !"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:204
+msgid "An EQUIPEER coach will contact you very soon"
+msgstr "Un coach EQUIPEER vous contactera très prochainement"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:210
+msgid "Error Sending"
+msgstr "Erreur lors de l'envoi"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:211
+msgid "Please try again"
+msgstr "Veuillez réessayer"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:221
+#: modules/equipeer/classes/shortcodes.php:319
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/menu-masthead-navbar-collapse.php:222
+msgid ""
+"You decide to don't send your selection to an EQUIPEER coach for the moment"
+msgstr ""
+"Vous décidez de ne pas envoyer votre sélection à un coach EQUIPEER pour le "
+"moment"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:5
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:9
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:9
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:13
+msgid "Tests"
+msgstr "Tests"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:5
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:9
+msgid "Horses"
+msgstr "Chevaux"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:9
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:13
+msgid "Ponys"
+msgstr "Poneys"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:26
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:31
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:32
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:30
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:35
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:36
+msgid "Find a reference"
+msgstr "Trouver une référence"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:37
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:40
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:41
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:44
+msgid "Reset filters"
+msgstr "Réinitialiser les filtres"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:38
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:723
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:42
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:727
+msgid "Search / Validation"
+msgstr "Recherche / validation"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:41
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:45
+msgid "Filters"
+msgstr "Filtres"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:59
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:63
+#: modules/equipeer/admin/submenu.php:55
+#: modules/equipeer/core/class-equipeer.php:898
+msgid "Categories"
+msgstr "Catégories"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:210
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:214
+msgid "Location"
+msgstr "Location"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:226
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:230
+#: modules/equipeer/classes/shortcodes.php:630
+msgid "In a radius around"
+msgstr "Dans un rayon autour de"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:226
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:230
+msgid "the city informed"
+msgstr "la ville renseignée"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:269
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:273
+msgid "Geolocation is not supported by this browser"
+msgstr "La géolocalisation n'est pas prise en charge par ce navigateur"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:299
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:303
+msgid "Location information is unavailable"
+msgstr "Les informations de localisation ne sont pas disponibles"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:312
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:316
+msgid "The request to get user location timed out"
+msgstr "La demande d’obtention de l’emplacement de l’utilisateur a expiré"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:325
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:329
+msgid "An unknown error occurred"
+msgstr "Une erreur inconnue est survenue"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:362
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:366
+msgid "Address not found"
+msgstr "Adresse introuvable"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:375
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:379
+msgid "Geocoder failed due to:"
+msgstr "Le géocodeur a échoué en raison de :"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:392
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:396
+msgid "EQUIPEER Evaluation"
+msgstr "EQUIPEER Evaluation"
+
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.2020.03.02.php:539
+#: datas/themes/wp-bootstrap-starter/template-parts/navbar-search-content.php:543
+msgid "Father's name"
+msgstr "Le nom du père"
+
+#: datas/themes/wp-bootstrap-starter/woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr "Supprimer cet article"
+
+#: datas/themes/wp-bootstrap-starter/woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr "Disponible en réapprovisionnement"
+
+#: modules/equipeer/admin/bulk-actions.php:40
+msgid "Trash"
+msgstr "Mettre à la corbeille"
+
+#: modules/equipeer/admin/bulk-actions.php:41
+msgid "Print"
+msgstr "Imprimer"
+
+#: modules/equipeer/admin/bulk-actions.php:61
+msgid "Created"
+msgstr "Créé le"
+
+#: modules/equipeer/admin/bulk-actions.php:100
+#: modules/equipeer/admin/bulk-actions.php:215
+msgid "Selection of expert ads"
+msgstr "Sélection d'annonces expertisées"
+
+#: modules/equipeer/admin/bulk-actions.php:121
+#: modules/equipeer/admin/bulk-actions.php:236
+msgid "By"
+msgstr "Par"
+
+#: modules/equipeer/admin/bulk-actions.php:160
+#: modules/equipeer/admin/bulk-actions.php:276
+#: modules/equipeer/admin/bulk-actions.php:300
+msgid "Ref."
+msgstr "Ref."
+
+#: modules/equipeer/admin/bulk-actions.php:300
+msgid "Detail"
+msgstr "Détail"
+
+#: modules/equipeer/admin/columns.php:91
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: modules/equipeer/admin/columns.php:92
+msgid "Title"
+msgstr "Titre"
+
+#: modules/equipeer/admin/columns.php:98
+#: modules/equipeer/admin/metaboxes/metabox-general.php:359
+msgid "Dress"
+msgstr "Robe"
+
+#: modules/equipeer/admin/columns.php:99
+msgid "Origin (Sire)"
+msgstr "Père"
+
+#: modules/equipeer/admin/columns.php:101
+msgid "Ad"
+msgstr "Annonce"
+
+#: modules/equipeer/admin/columns.php:103
+msgid "Date de publication"
+msgstr "Date de publication"
+
+#: modules/equipeer/admin/columns.php:104
+msgid "Date de modification"
+msgstr "Date de modification"
+
+#: modules/equipeer/admin/columns.php:573
+#: modules/equipeer/admin/columns.php:577
+msgid "Contact client"
+msgstr "Contacter client"
+
+#: modules/equipeer/admin/columns.php:577
+msgid "This equine does not have a owner email!"
+msgstr "Cet annonce n'a pas d'email de propriétaire !"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:36
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:36
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:36
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:36
+msgid "Sports skills"
+msgstr "Aptitudes sportives"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:36
+msgid "Mounted at the obstacle"
+msgstr "Monté à l'obstacle"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:56
+msgid "Vocation"
+msgstr "Caractère"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:60
+msgid "Disponibility"
+msgstr "Disponibilité"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:64
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:68
+msgid "Balanced"
+msgstr "Equilibre"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:68
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:64
+msgid "Style"
+msgstr "Style"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:72
+msgid "Experience"
+msgstr "Expérience"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:76
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:80
+msgid "Stability"
+msgstr "Stabilité"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:80
+msgid "Obstacle 7"
+msgstr "Equilibre"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:84
+msgid "Obstacle 8"
+msgstr "Rebond et amplitude"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-obstacle.php:89
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:85
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:106
+#: modules/equipeer/admin/metaboxes/metabox-impression.php:36
+#: modules/equipeer/admin/metaboxes/metabox-impression.php:55
+msgid "Overall Feeling"
+msgstr "Impression d'ensemble"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:36
+msgid "Mounted on the flat"
+msgstr "Monté sur le plat"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:56
+msgid "Flexibility - Step - Gathered"
+msgstr "Flexibilité - Pas - Rassemblé"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:60
+msgid "Blood - Step - Elongate"
+msgstr "Sang - Pas - Allongé"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:64
+msgid "Disponibility - Trot - Work"
+msgstr "Disponibilité - Trot - Travail"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:68
+msgid "Mouth - Trot - Elongate"
+msgstr "Bouche - Trot - Allongé"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:72
+msgid "Riding comfort - Gallop - Work"
+msgstr "Confort cavalier - Galop - Travail"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-monte-plat.php:76
+msgid "Vocation - Gallop - Elongate"
+msgstr "Caractère - Galop - Allongé"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:36
+msgid "Results in competition"
+msgstr "Résultats en compétition"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:54
+msgid "Classified 100"
+msgstr "Classé 100"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:58
+msgid "Classified 110"
+msgstr "Classé 110"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:62
+msgid "Classified 115"
+msgstr "Classé 115"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:66
+msgid "Classified 120"
+msgstr "Classé 120"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:70
+msgid "Classified 130"
+msgstr "Classé 130"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:74
+msgid "Classified 135"
+msgstr "Classé 135"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:78
+msgid "Classified 140"
+msgstr "Classé 140"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:82
+msgid "Classified 140 and +"
+msgstr "Classé 140 et +"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:86
+msgid "International"
+msgstr "International"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:98
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-resultats-competition.php:132
+#: modules/equipeer/admin/metaboxes/metabox-general.php:185
+#: modules/equipeer/admin/metaboxes/metabox-general.php:208
+#: modules/equipeer/admin/metaboxes/metabox-general.php:231
+#: modules/equipeer/admin/metaboxes/metabox-general.php:309
+#: modules/equipeer/admin/metaboxes/metabox-general.php:336
+#: modules/equipeer/admin/metaboxes/metabox-general.php:363
+#: modules/equipeer/admin/metaboxes/metabox-general.php:395
+#: modules/equipeer/admin/metaboxes/metabox-price.php:93
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:61
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:87
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:113
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:139
+#: modules/equipeer/includes/functions.php:654
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Selectionner &mdash;"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:36
+msgid "Jump quality"
+msgstr "Qualité de saut"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:56
+msgid "Stretch"
+msgstr "Envergure"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:60
+msgid "Average jump"
+msgstr "Moyens"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:72
+msgid "Intelligence"
+msgstr "Intelligence"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:76
+msgid "Respect"
+msgstr "Respect"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:81
+msgid "Foot change - Lines"
+msgstr "Changement de pied - Lignes"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:85
+msgid "False gallop"
+msgstr "Galop à faux"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:89
+msgid "Backed up"
+msgstr "Appuyé"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:93
+msgid "Spins"
+msgstr "Pirouettes"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:97
+msgid "Crossing"
+msgstr "Passage"
+
+#: modules/equipeer/admin/metaboxes/metabox-aptitudes-saut.php:101
+msgid "Piaff&eacute;"
+msgstr "Piaffé"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:55
+msgid "Type of hinge"
+msgstr "Type de ferrure"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:63
+msgid "Type of mouth piece"
+msgstr "Type d'embouchure"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:71
+msgid "Model: forehand, back, back hand"
+msgstr "Modèle : avant­-main, dos, arrière main"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:79
+msgid "Balances: anterior, posterior"
+msgstr "Aplombs : antérieurs, postérieurs"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:87
+msgid "Quality of pace: step, trot, gallop"
+msgstr "Qualité des allures : pas, trot, galop"
+
+#: modules/equipeer/admin/metaboxes/metabox-descriptif-detail.php:95
+msgid ""
+"Behavior / General Character: in the stable, on foot, in transport, in the "
+"tether, paddock, mowing, outdoors, work"
+msgstr ""
+"Comportement / Caractère général : à l'écurie, à pied, au transport, en "
+"longe, paddock, tonte, extérieur, travail"
+
+#: modules/equipeer/admin/metaboxes/metabox-divers.php:36
+msgid "Misc"
+msgstr "Divers"
+
+#: modules/equipeer/admin/metaboxes/metabox-divers.php:55
+msgid "Test Places"
+msgstr "Lieux d'essai"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:38
+msgid "General INFOS"
+msgstr "INFOS générales"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:134
+msgid "To expertise"
+msgstr "Expertisé"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:148
+msgid "Sire / Identification"
+msgstr "Sire / Identification"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:160
+msgid "EQUIPEER Reference"
+msgstr "Référence EQUIPEER"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:204
+msgid "Equine type"
+msgstr "Type d'équidé"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:283
+msgid "Birthday real"
+msgstr "Date de naissance"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:286
+#: modules/equipeer/admin/metaboxes/metabox-veterinaire.php:58
+msgid "Format YYYY-MM-DD"
+msgstr "Format YYYY-MM-DD"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:290
+msgid "Birthday Year"
+msgstr "Année de naissance"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:293
+msgid "Format YYYY"
+msgstr "Format YYYY"
+
+#: modules/equipeer/admin/metaboxes/metabox-general.php:386
+msgid "Size (cm) / Size"
+msgstr "Taille (cm) / Taille (tranche)"
+
+#: modules/equipeer/admin/metaboxes/metabox-images.php:64
+msgid "Click one of the images to edit or update them"
+msgstr "Cliquez sur une des images pour les modifier ou les mettre à jour"
+
+#: modules/equipeer/admin/metaboxes/metabox-images.php:66
+msgid "First image"
+msgstr "Photo principale"
+
+#: modules/equipeer/admin/metaboxes/metabox-images.php:85
+msgid "Second image"
+msgstr "Seconde photo"
+
+#: modules/equipeer/admin/metaboxes/metabox-images.php:104
+msgid "Third image"
+msgstr "Troisième photo"
+
+#: modules/equipeer/admin/metaboxes/metabox-notes.php:36
+msgid "Notepad"
+msgstr "Bloc note"
+
+#: modules/equipeer/admin/metaboxes/metabox-notes.php:55
+msgid "Tests performed and date"
+msgstr "Essais effectués et date"
+
+#: modules/equipeer/admin/metaboxes/metabox-notes.php:63
+msgid "Previous riders"
+msgstr "Cavaliers précédents"
+
+#: modules/equipeer/admin/metaboxes/metabox-notes.php:71
+msgid "Notes"
+msgstr "Notes"
+
+#: modules/equipeer/admin/metaboxes/metabox-origines.php:38
+msgid "Origins"
+msgstr "Origines"
+
+#: modules/equipeer/admin/metaboxes/metabox-origines.php:65
+msgid "Father"
+msgstr "Père"
+
+#: modules/equipeer/admin/metaboxes/metabox-origines.php:91
+msgid "Mother"
+msgstr "Mère"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:91
+msgid "Price (&euro;&euro;&euro;&euro;&euro;)"
+msgstr "Prix (&euro;&euro;&euro;&euro;&euro;)"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:107
+msgid "Net seller price"
+msgstr "Prix net vendeur"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:111
+msgid "Vendor price"
+msgstr "Prix du vendeur"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:114
+msgid "EQUIPEER Price"
+msgstr "Prix EQUIPEER"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:118
+msgid "Equipeer price (with commission)"
+msgstr "Avec la commission"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:121
+msgid "EQUIPEER Commission TTC"
+msgstr "Commission EQUIPEER TTC"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:125
+msgid "Equipeer commission (commission amount only)"
+msgstr "Montant de la commission seulement"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:128
+msgid "Price with VAT"
+msgstr "Prix avec TVA"
+
+#: modules/equipeer/admin/metaboxes/metabox-price.php:137
+msgid "VAT rate"
+msgstr "Taux de TVA"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:38
+msgid "Rider Profile"
+msgstr "Profil cavalier"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:57
+#: modules/equipeer/classes/taxonomies.php:1209
+msgid "Rider Age"
+msgstr "Age de cavalier"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:83
+#: modules/equipeer/classes/taxonomies.php:1337
+msgid "Rider Gender"
+msgstr "Genre de cavalier"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:109
+#: modules/equipeer/classes/taxonomies.php:1401
+msgid "Rider Level"
+msgstr "Niveau de cavalier"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:135
+#: modules/equipeer/classes/taxonomies.php:1273
+msgid "Rider Behavior"
+msgstr "Comportement de cavalier"
+
+#: modules/equipeer/admin/metaboxes/metabox-profil-cavalier.php:161
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:38
+msgid "Owner contact details"
+msgstr "Coordonnées propriétaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:65
+msgid "Contact by"
+msgstr "Contacter par"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:87
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:115
+msgid "No owner"
+msgstr "Pas de propriétaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:192
+msgid "Latitude"
+msgstr "Latitude"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:200
+msgid "Longitude"
+msgstr "Longitude"
+
+#: modules/equipeer/admin/metaboxes/metabox-proprietaire.php:208
+msgid "Reffering expert"
+msgstr "Expert référent"
+
+#: modules/equipeer/admin/metaboxes/metabox-veterinaire.php:37
+msgid "Veterinary visit"
+msgstr "Visite vétérinaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-veterinaire.php:55
+msgid "Date of the last veterinary visit"
+msgstr "Date de la dernière visite vétérinaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-veterinaire.php:61
+msgid "Veterinary report"
+msgstr "Compte rendu vétérinaire"
+
+#: modules/equipeer/admin/metaboxes/metabox-veterinaire.php:79
+msgid "Medical background and results"
+msgstr "Antécédents et bilans"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:38
+msgid "Videos"
+msgstr "Vidéos"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:65
+msgid "Main video"
+msgstr "Vidéo principale"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:74
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:89
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:104
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:119
+msgid "Copy / Paste a link"
+msgstr "Copier / Coller un lien"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:80
+msgid "Second video"
+msgstr "Seconde vidéo"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:95
+msgid "Third video"
+msgstr "Troisième vidéo"
+
+#: modules/equipeer/admin/metaboxes/metabox-videos.php:110
+msgid "fourth video"
+msgstr "4e vidéo"
+
+#: modules/equipeer/admin/submenu.php:42
+#: modules/equipeer/core/class-equipeer.php:926
+msgid "Cat&eacute;gories EQUIPEER"
+msgstr "Catégorie EQUIPEER"
+
+#: modules/equipeer/admin/submenu.php:43
+msgid "Mod&eacute;rations"
+msgstr "Mod&eacute;rations"
+
+#: modules/equipeer/admin/submenu.php:44
+#: modules/equipeer/core/class-equipeer.php:1052
+msgid "EQUICODEX"
+msgstr "EQUICODEX"
+
+#: modules/equipeer/admin/submenu.php:86
+msgid "No categories"
+msgstr "Aucune catégorie"
+
+#: modules/equipeer/admin/user-profile.php:44
+msgid "Available"
+msgstr "Disponible"
+
+#: modules/equipeer/admin/user-profile.php:45
+msgid "Not Available"
+msgstr "Pas disponible"
+
+#: modules/equipeer/classes/ajax.php:99
+#: modules/equipeer/classes/shortcodes.php:201
+#: modules/equipeer/classes/shortcodes.php:255
+msgid "Add to my selection"
+msgstr "Ajouter à ma sélection"
+
+#: modules/equipeer/classes/ajax.php:100
+#: modules/equipeer/classes/shortcodes.php:201
+#: modules/equipeer/classes/shortcodes.php:255
+msgid "Remove from my selection"
+msgstr "Supprimer de ma sélection"
+
+#: modules/equipeer/classes/ajax.php:140
+msgid "Bravo"
+msgstr "Bravo"
+
+#: modules/equipeer/classes/ajax.php:141
+msgid "Horse added to your selection"
+msgstr "Cheval ajouté à votre sélection"
+
+#: modules/equipeer/classes/ajax.php:145 modules/equipeer/classes/ajax.php:159
+#: modules/equipeer/classes/ajax.php:172
+msgid "Error"
+msgstr "Erreur"
+
+#: modules/equipeer/classes/ajax.php:146
+msgid "Inserting your selection failed"
+msgstr "L'insertion de votre sélection a échoué"
+
+#: modules/equipeer/classes/ajax.php:156
+msgid "Horse removed from your selection"
+msgstr "Cheval supprimé de votre sélection"
+
+#: modules/equipeer/classes/ajax.php:160
+msgid "Removing your selection failed"
+msgstr "La suppression de votre sélection a échoué"
+
+#: modules/equipeer/classes/ajax.php:165
+msgid "Sorry"
+msgstr "Désolé"
+
+#: modules/equipeer/classes/ajax.php:166
+msgid "We did not understand your request"
+msgstr "Nous n'avons pas compris votre demande"
+
+#: modules/equipeer/classes/ajax.php:173
+msgid "Saving your selection failed"
+msgstr "Echec de l'enregistrement de votre sélection"
+
+#: modules/equipeer/classes/ajax.php:327 modules/equipeer/classes/ajax.php:858
+#: modules/equipeer/classes/cron.php:355
+#: modules/equipeer/includes/functions.php:98
+#: modules/equipeer/includes/functions.php:124
+#: modules/equipeer/includes/functions.php:498
+#: modules/equipeer/includes/functions.php:526
+msgid "years"
+msgstr "ans"
+
+#: modules/equipeer/classes/ajax.php:327 modules/equipeer/classes/ajax.php:858
+#: modules/equipeer/classes/cron.php:355
+#: modules/equipeer/includes/functions.php:98
+#: modules/equipeer/includes/functions.php:127
+#: modules/equipeer/includes/functions.php:498
+msgid "year"
+msgstr "an"
+
+#: modules/equipeer/classes/ajax.php:355 modules/equipeer/classes/cron.php:342
+msgid "Great, your ad is published on EQUIPEER.COM"
+msgstr "Super, votre annonce est publiée sur EQUIPEER.COM"
+
+#: modules/equipeer/classes/ajax.php:889
+msgid "You have just posted an ad on EQUIPEER.COM"
+msgstr "Vous venez de déposer une annonce sur EQUIPEER.COM"
+
+#: modules/equipeer/classes/ajax.php:1149
+#: modules/equipeer/classes/ajax.php:1158
+#: modules/equipeer/classes/ajax.php:1167
+msgid "Can't load this video"
+msgstr "Impossible de charger cette vidéo"
+
+#: modules/equipeer/classes/ajax.php:1165
+#: modules/equipeer/includes/functions.php:1121
+msgid "Your browser does not support the video tag"
+msgstr "Votre navigateur ne supporte pas la vidéo HTML5"
+
+#: modules/equipeer/classes/cron.php:605
+#, php-format
+msgid "New horses for your search <strong>%s</strong>"
+msgstr "Nouveaux chevaux pour votre recherche <strong>%s</strong> "
+
+#: modules/equipeer/classes/cron.php:678
+msgid "New horses following your searches on EQUIPEER.COM "
+msgstr "Nouveaux chevaux suite à vos recherches sur EQUIPEER.COM"
+
+#: modules/equipeer/classes/options.php:36
+#: modules/equipeer/classes/options.php:37
+msgid "Options"
+msgstr "Options"
+
+#: modules/equipeer/classes/shortcodes.php:73
+#: modules/equipeer/classes/shortcodes.php:136
+msgid "Prev."
+msgstr "Préc."
+
+#: modules/equipeer/classes/shortcodes.php:74
+#: modules/equipeer/classes/shortcodes.php:137
+msgid "Return to list"
+msgstr "Retour à la liste"
+
+#: modules/equipeer/classes/shortcodes.php:75
+#: modules/equipeer/classes/shortcodes.php:138
+msgid "Next."
+msgstr "Suiv."
+
+#: modules/equipeer/classes/shortcodes.php:93
+#: modules/equipeer/classes/shortcodes.php:102
+#: modules/equipeer/classes/shortcodes.php:159
+msgid "Contact seller"
+msgstr "Contactez le vendeur"
+
+#: modules/equipeer/classes/shortcodes.php:294
+#: modules/equipeer/classes/shortcodes.php:318
+msgid "Save my search"
+msgstr "Sauvegarder ma recherche"
+
+#: modules/equipeer/classes/shortcodes.php:320
+msgid "Perfect"
+msgstr "Parfait"
+
+#: modules/equipeer/classes/shortcodes.php:322
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: modules/equipeer/classes/shortcodes.php:323
+msgid "Your search has been saved!"
+msgstr "Votre recherche a été sauvegardé !"
+
+#: modules/equipeer/classes/shortcodes.php:324
+msgid "You have not saved your search!"
+msgstr "Vous n'avez pas sauvegardé votre recherche !"
+
+#: modules/equipeer/classes/shortcodes.php:430
+msgid "In a few clicks find the horse that suits you, among all the ads"
+msgstr ""
+"En quelques clics trouvez le cheval qui vous correspond, parmi toutes les "
+"annonces"
+
+#: modules/equipeer/classes/shortcodes.php:491
+msgid "You are looking for a horse of which category?"
+msgstr "Vous cherchez un cheval de quelle catégorie ?"
+
+#: modules/equipeer/classes/shortcodes.php:516
+msgid "What level are you looking for?"
+msgstr "Vous cherchez un cheval de quel niveau ?"
+
+#: modules/equipeer/classes/shortcodes.php:520
+msgid "No level for this discipline"
+msgstr "Aucun niveau disponible pour cette catégorie"
+
+#: modules/equipeer/classes/shortcodes.php:520
+msgid "Click on next"
+msgstr "Cliquez sur SUIVANT"
+
+#: modules/equipeer/classes/shortcodes.php:559
+msgid "Looking for a horse from what age?"
+msgstr "Vous cherchez un cheval de quel âge ?"
+
+#: modules/equipeer/classes/shortcodes.php:583
+msgid "Looking for a horse from what budget?"
+msgstr "Vous cherchez un cheval de quel budget ?"
+
+#: modules/equipeer/classes/shortcodes.php:594
+msgid "You are looking for a horse of what gender?"
+msgstr "Vous cherchez un cheval de quel sexe ?"
+
+#: modules/equipeer/classes/shortcodes.php:621
+msgid "What location?"
+msgstr "Quelle localisation ?"
+
+#: modules/equipeer/classes/shortcodes.php:627
+msgid "Enter a place"
+msgstr "Indiquez un lieu"
+
+#: modules/equipeer/classes/shortcodes.php:707
+msgid "Search in progress..."
+msgstr "Recherche en cours..."
+
+#: modules/equipeer/classes/taxonomies.php:435
+#: modules/equipeer/classes/taxonomies.php:449
+#: modules/equipeer/core/class-equipeer.php:907
+msgid "Equines"
+msgstr "Annonces"
+
+#: modules/equipeer/classes/taxonomies.php:436
+msgid "Equine"
+msgstr "Annonce"
+
+#: modules/equipeer/classes/taxonomies.php:437
+msgid "Search Equines"
+msgstr "Rechercher des annonces"
+
+#: modules/equipeer/classes/taxonomies.php:438
+msgid "Popular Equines"
+msgstr "Les Annonces les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:439
+msgid "All Equines"
+msgstr "Toutes les annonces"
+
+#: modules/equipeer/classes/taxonomies.php:442
+msgid "Edit Equine"
+msgstr "Modifier une annonce"
+
+#: modules/equipeer/classes/taxonomies.php:443
+msgid "Update Equine"
+msgstr "Mettre à jour l'annonce"
+
+#: modules/equipeer/classes/taxonomies.php:444
+msgid "Add New Equine"
+msgstr "Ajouter un nouvelle annonce"
+
+#: modules/equipeer/classes/taxonomies.php:445
+msgid "New Equine Name"
+msgstr "Nouvelle annonce"
+
+#: modules/equipeer/classes/taxonomies.php:446
+msgid "Separate Equines with commas"
+msgstr "Séparez les Annonces avec des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:447
+msgid "Add or remove equines"
+msgstr "Ajouter ou supprimer des annonces"
+
+#: modules/equipeer/classes/taxonomies.php:448
+msgid "Choose from the most used equines"
+msgstr "Choisissez parmi les annonces les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:474
+#: modules/equipeer/classes/taxonomies.php:488
+#: modules/equipeer/core/class-equipeer.php:944
+msgid "Groups"
+msgstr "Groupes"
+
+#: modules/equipeer/classes/taxonomies.php:475
+msgid "Group"
+msgstr "Groupe"
+
+#: modules/equipeer/classes/taxonomies.php:476
+msgid "Search Groups"
+msgstr "Recherches Groupes"
+
+#: modules/equipeer/classes/taxonomies.php:477
+msgid "Popular Groups"
+msgstr "Les Groupes les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:480
+msgid "Parent Category:"
+msgstr "Categorie parente :"
+
+#: modules/equipeer/classes/taxonomies.php:481
+msgid "Edit Group"
+msgstr "Modifier un groupe"
+
+#: modules/equipeer/classes/taxonomies.php:482
+msgid "Update Group"
+msgstr "Mettre à jour le Groupe"
+
+#: modules/equipeer/classes/taxonomies.php:483
+msgid "Add New Group"
+msgstr "Ajouter un nouveau Groupe"
+
+#: modules/equipeer/classes/taxonomies.php:484
+msgid "New Group Name"
+msgstr "Nouveau Groupe"
+
+#: modules/equipeer/classes/taxonomies.php:485
+msgid "Separate Groups with commas"
+msgstr "Séparez les Groupes avec des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:486
+msgid "Add or remove groups"
+msgstr "Ajouter ou supprimer des Groupes"
+
+#: modules/equipeer/classes/taxonomies.php:487
+msgid "Choose from the most used groups"
+msgstr "Choisissez parmi les Groupes les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:516
+#: modules/equipeer/classes/taxonomies.php:580
+#: modules/equipeer/classes/taxonomies.php:659
+#: modules/equipeer/classes/taxonomies.php:723
+#: modules/equipeer/classes/taxonomies.php:787
+#: modules/equipeer/classes/taxonomies.php:851
+#: modules/equipeer/classes/taxonomies.php:929
+#: modules/equipeer/classes/taxonomies.php:993
+#: modules/equipeer/classes/taxonomies.php:1057
+#: modules/equipeer/classes/taxonomies.php:1121
+#: modules/equipeer/classes/taxonomies.php:1185
+#: modules/equipeer/classes/taxonomies.php:1249
+#: modules/equipeer/classes/taxonomies.php:1313
+#: modules/equipeer/classes/taxonomies.php:1377
+#: modules/equipeer/classes/taxonomies.php:1441
+msgid "Equine Type"
+msgstr "Type d'équidés"
+
+#: modules/equipeer/classes/taxonomies.php:541
+msgid "Search Disciplines"
+msgstr "Rechercher Disciplines"
+
+#: modules/equipeer/classes/taxonomies.php:542
+msgid "Popular Disciplines"
+msgstr "Les Disciplines les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:543
+msgid "All Disciplines"
+msgstr "Toutes les disciplines"
+
+#: modules/equipeer/classes/taxonomies.php:546
+msgid "Edit Discipline"
+msgstr "Modifier une discipline"
+
+#: modules/equipeer/classes/taxonomies.php:547
+msgid "Update Discipline"
+msgstr "Mettre à jour la Discipline"
+
+#: modules/equipeer/classes/taxonomies.php:548
+msgid "Add New Discipline"
+msgstr "Ajouter une nouvelle Discipline"
+
+#: modules/equipeer/classes/taxonomies.php:549
+msgid "New Discipline Name"
+msgstr "Nouvelle Discipline"
+
+#: modules/equipeer/classes/taxonomies.php:550
+msgid "Separate Disciplines with commas"
+msgstr "Séparez les Disciplines avec des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:551
+msgid "Add or remove disciplines"
+msgstr "Ajouter ou supprimer des Disciplines"
+
+#: modules/equipeer/classes/taxonomies.php:552
+msgid "Choose from the most used disciplines"
+msgstr "Choisissez parmi les Disciplines les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:581
+msgid "Reference Prefix"
+msgstr "Préfixe réf."
+
+#: modules/equipeer/classes/taxonomies.php:618
+#: modules/equipeer/classes/taxonomies.php:632
+#: modules/equipeer/core/class-equipeer.php:998
+msgid "Equestrian Disciplines"
+msgstr "Disciplines équestres"
+
+#: modules/equipeer/classes/taxonomies.php:619
+msgid "Equestrian Discipline"
+msgstr "Discipline équestre"
+
+#: modules/equipeer/classes/taxonomies.php:620
+msgid "Search Equestrian Disciplines"
+msgstr "Recherche Disciplines équestres"
+
+#: modules/equipeer/classes/taxonomies.php:621
+msgid "Popular Equestrian Disciplines"
+msgstr "Les Disciplines équestres les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:622
+msgid "All Equestrian Disciplines"
+msgstr "Toutes les Disciplines équestres"
+
+#: modules/equipeer/classes/taxonomies.php:625
+msgid "Edit Equestrian Discipline"
+msgstr "Modifier la Discipline équestre"
+
+#: modules/equipeer/classes/taxonomies.php:626
+msgid "Update Equestrian Discipline"
+msgstr "Mettre à jour la Discipline équestre"
+
+#: modules/equipeer/classes/taxonomies.php:627
+msgid "Add New Equestrian Discipline"
+msgstr "Ajouter une nouvelle Discipline équestre"
+
+#: modules/equipeer/classes/taxonomies.php:628
+msgid "New Equestrian Discipline Name"
+msgstr "Nouvelle Discipline équestre"
+
+#: modules/equipeer/classes/taxonomies.php:629
+msgid "Separate Equestrian Disciplines with commas"
+msgstr "Séparer les Disciplines équestres par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:630
+msgid "Add or remove equestrian disciplines"
+msgstr "Ajouter ou supprimer des Disciplines équestres"
+
+#: modules/equipeer/classes/taxonomies.php:631
+msgid "Choose from the most used equestrian discipline"
+msgstr "Choisissez parmi les Disciplines équestres les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:682
+#: modules/equipeer/classes/taxonomies.php:696
+#: modules/equipeer/core/class-equipeer.php:935
+msgid "Genders"
+msgstr "Sexes"
+
+#: modules/equipeer/classes/taxonomies.php:684
+msgid "Search Genders"
+msgstr "Recherche Sexes"
+
+#: modules/equipeer/classes/taxonomies.php:685
+msgid "Popular Genders"
+msgstr "Les Sexes les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:686
+msgid "All Genders"
+msgstr "Tous les Sexes"
+
+#: modules/equipeer/classes/taxonomies.php:689
+msgid "Edit Gender"
+msgstr "Modifier le Sexe"
+
+#: modules/equipeer/classes/taxonomies.php:690
+msgid "Update Gender"
+msgstr "Mettre à jour le Sexe"
+
+#: modules/equipeer/classes/taxonomies.php:691
+msgid "Add New Gender"
+msgstr "Ajouter un nouveau Sexe"
+
+#: modules/equipeer/classes/taxonomies.php:692
+msgid "New Gender Name"
+msgstr "Nouveau Sexe"
+
+#: modules/equipeer/classes/taxonomies.php:693
+msgid "Separate Genders with commas"
+msgstr "Séparer les Sexes par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:694
+msgid "Add or remove genders"
+msgstr "Ajouter ou supprimer des Sexes"
+
+#: modules/equipeer/classes/taxonomies.php:695
+msgid "Choose from the most used genders"
+msgstr "Choisissez parmi les Sexes les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:746
+#: modules/equipeer/classes/taxonomies.php:760
+#: modules/equipeer/core/class-equipeer.php:916
+msgid "Ages"
+msgstr "Ages"
+
+#: modules/equipeer/classes/taxonomies.php:748
+msgid "Search Ages"
+msgstr "Recherche Ages"
+
+#: modules/equipeer/classes/taxonomies.php:749
+msgid "Popular Ages"
+msgstr "Les Ages les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:750
+msgid "All Ages"
+msgstr "Tous les Ages"
+
+#: modules/equipeer/classes/taxonomies.php:753
+msgid "Edit Age"
+msgstr "Modifier l'Age"
+
+#: modules/equipeer/classes/taxonomies.php:754
+msgid "Update Age"
+msgstr "Mettre à jour l'Age"
+
+#: modules/equipeer/classes/taxonomies.php:755
+msgid "Add New Age"
+msgstr "Ajouter un nouvel Age"
+
+#: modules/equipeer/classes/taxonomies.php:756
+msgid "New Age Name"
+msgstr "Nouvel Age"
+
+#: modules/equipeer/classes/taxonomies.php:757
+msgid "Separate Ages with commas"
+msgstr "Séparer les Ages par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:758
+msgid "Add or remove ages"
+msgstr "Ajouter ou supprimer des Ages"
+
+#: modules/equipeer/classes/taxonomies.php:759
+msgid "Choose from the most used ages"
+msgstr "Choisissez parmi les Ages les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:810
+#: modules/equipeer/classes/taxonomies.php:824
+#: modules/equipeer/core/class-equipeer.php:953
+msgid "Levels"
+msgstr "Niveaux"
+
+#: modules/equipeer/classes/taxonomies.php:812
+msgid "Search Levels"
+msgstr "Recherche Niveaux"
+
+#: modules/equipeer/classes/taxonomies.php:813
+msgid "Popular Levels"
+msgstr "Les Niveaux les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:814
+msgid "All Levels"
+msgstr "Tous les Niveaux"
+
+#: modules/equipeer/classes/taxonomies.php:817
+msgid "Edit Level"
+msgstr "Modifier le Niveau"
+
+#: modules/equipeer/classes/taxonomies.php:818
+msgid "Update Level"
+msgstr "Mettre à jour le Niveau"
+
+#: modules/equipeer/classes/taxonomies.php:819
+msgid "Add New Level"
+msgstr "Ajouter un nouveau Niveau"
+
+#: modules/equipeer/classes/taxonomies.php:820
+msgid "New Level Name"
+msgstr "Nouveau Niveau"
+
+#: modules/equipeer/classes/taxonomies.php:821
+msgid "Separate Levels with commas"
+msgstr "Séparer les Niveaux par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:822
+msgid "Add or remove levels"
+msgstr "Ajouter ou supprimer des Niveaux"
+
+#: modules/equipeer/classes/taxonomies.php:823
+msgid "Choose from the most used levels"
+msgstr "Choisissez parmi les Niveaux les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:888
+#: modules/equipeer/classes/taxonomies.php:902
+#: modules/equipeer/core/class-equipeer.php:1007
+msgid "Equestrian Levels"
+msgstr "Niveaux équestres"
+
+#: modules/equipeer/classes/taxonomies.php:889
+msgid "Equestrian Level"
+msgstr "Niveau équestre"
+
+#: modules/equipeer/classes/taxonomies.php:890
+msgid "Search Equestrian Levels"
+msgstr "Recherche Niveaux équestres"
+
+#: modules/equipeer/classes/taxonomies.php:891
+msgid "Popular Equestrian Levels"
+msgstr "Les Niveaux équestres les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:892
+msgid "All Equestrian Levels"
+msgstr "Tous les Niveaux équestres"
+
+#: modules/equipeer/classes/taxonomies.php:895
+msgid "Edit Equestrian Level"
+msgstr "Modifier le Niveau équestre"
+
+#: modules/equipeer/classes/taxonomies.php:896
+msgid "Update Equestrian Level"
+msgstr "Mettre à jour le Niveau équestre"
+
+#: modules/equipeer/classes/taxonomies.php:897
+msgid "Add New Equestrian Level"
+msgstr "Ajouter un nouveau Niveau équestre"
+
+#: modules/equipeer/classes/taxonomies.php:898
+msgid "New Equestrian Level Name"
+msgstr "Nouveau Niveau équestre"
+
+#: modules/equipeer/classes/taxonomies.php:899
+msgid "Separate Equestrian Levels with commas"
+msgstr "Séparer les Niveaux équestres par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:900
+msgid "Add or remove equestrian levels"
+msgstr "Ajouter ou supprimer des Niveaux équestres"
+
+#: modules/equipeer/classes/taxonomies.php:901
+msgid "Choose from the most used equestrian levels"
+msgstr "Choisissez parmi les Niveaux équestres les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:954
+msgid "Search Potentials"
+msgstr "Recherche Potentiels"
+
+#: modules/equipeer/classes/taxonomies.php:955
+msgid "Popular Potentials"
+msgstr "Les Potentiels les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:956
+msgid "All Potentials"
+msgstr "Tous les Potentiels"
+
+#: modules/equipeer/classes/taxonomies.php:959
+msgid "Edit Potential"
+msgstr "Modifier le Potentiel"
+
+#: modules/equipeer/classes/taxonomies.php:960
+msgid "Update Potential"
+msgstr "Mettre à jour le Potentiel"
+
+#: modules/equipeer/classes/taxonomies.php:961
+msgid "Add New Potential"
+msgstr "Ajouter un nouveau Potentiel"
+
+#: modules/equipeer/classes/taxonomies.php:962
+msgid "New Potential Name"
+msgstr "Nouveau Potentiel"
+
+#: modules/equipeer/classes/taxonomies.php:963
+msgid "Separate Potentials with commas"
+msgstr "Séparer les Potentiels par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:964
+msgid "Add or remove potentials"
+msgstr "Ajouter ou supprimer des Potentiels"
+
+#: modules/equipeer/classes/taxonomies.php:965
+msgid "Choose from the most used potentials"
+msgstr "Choisissez parmi les Potentiels les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1018
+msgid "Search Breeds"
+msgstr "Recherche Races"
+
+#: modules/equipeer/classes/taxonomies.php:1019
+msgid "Popular Breeds"
+msgstr "Les Races les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:1020
+msgid "All Breeds"
+msgstr "Toutes les Races"
+
+#: modules/equipeer/classes/taxonomies.php:1023
+msgid "Edit Breed"
+msgstr "Modifier la Race"
+
+#: modules/equipeer/classes/taxonomies.php:1024
+msgid "Update Breed"
+msgstr "Mettre à jour la Race"
+
+#: modules/equipeer/classes/taxonomies.php:1025
+msgid "Add New Breed"
+msgstr "Ajouter une nouvelle Race"
+
+#: modules/equipeer/classes/taxonomies.php:1026
+msgid "New Breed Name"
+msgstr "Nouvelle Race"
+
+#: modules/equipeer/classes/taxonomies.php:1027
+msgid "Separate Breeds with commas"
+msgstr "Séparer les Races par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1028
+msgid "Add or remove breeds"
+msgstr "Ajouter ou supprimer des Races"
+
+#: modules/equipeer/classes/taxonomies.php:1029
+msgid "Choose from the most used breeds"
+msgstr "Choisissez parmi les Races les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:1080
+#: modules/equipeer/classes/taxonomies.php:1094
+#: modules/equipeer/core/class-equipeer.php:980
+msgid "Colors"
+msgstr "Robes"
+
+#: modules/equipeer/classes/taxonomies.php:1082
+msgid "Search Colors"
+msgstr "Recherche Robes"
+
+#: modules/equipeer/classes/taxonomies.php:1083
+msgid "Popular Colors"
+msgstr "Les Robes les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:1084
+msgid "All Colors"
+msgstr "Toutes les Robes"
+
+#: modules/equipeer/classes/taxonomies.php:1087
+msgid "Edit Color"
+msgstr "Modifier la Robe"
+
+#: modules/equipeer/classes/taxonomies.php:1088
+msgid "Update Color"
+msgstr "Mettre à jour la Robe"
+
+#: modules/equipeer/classes/taxonomies.php:1089
+msgid "Add New Color"
+msgstr "Ajouter une nouvelle Robe"
+
+#: modules/equipeer/classes/taxonomies.php:1090
+msgid "New Color Name"
+msgstr "Nouvelle Robe"
+
+#: modules/equipeer/classes/taxonomies.php:1091
+msgid "Separate Colors with commas"
+msgstr "Séparer les Robes par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1092
+msgid "Add or remove colors"
+msgstr "Ajouter ou supprimer des Robes"
+
+#: modules/equipeer/classes/taxonomies.php:1093
+msgid "Choose from the most used colors"
+msgstr "Choisissez parmi les Robes les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:1146
+msgid "Search Sizes"
+msgstr "Recherche Tailles"
+
+#: modules/equipeer/classes/taxonomies.php:1147
+msgid "Popular Sizes"
+msgstr "Les Tailles les plus utilisées"
+
+#: modules/equipeer/classes/taxonomies.php:1148
+msgid "All Sizes"
+msgstr "Toutes les tailles"
+
+#: modules/equipeer/classes/taxonomies.php:1151
+msgid "Edit Size"
+msgstr "Modifier la Taille"
+
+#: modules/equipeer/classes/taxonomies.php:1152
+msgid "Update Size"
+msgstr "Mettre à jour la Taille"
+
+#: modules/equipeer/classes/taxonomies.php:1153
+msgid "Add New Size"
+msgstr "Ajouter une nouvelle Taille"
+
+#: modules/equipeer/classes/taxonomies.php:1154
+msgid "New Size Name"
+msgstr "Nouvelle Taille"
+
+#: modules/equipeer/classes/taxonomies.php:1155
+msgid "Separate Sizes with commas"
+msgstr "Séparer les Tailles par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1156
+msgid "Add or remove sizes"
+msgstr "Ajouter ou supprimer des Tailles"
+
+#: modules/equipeer/classes/taxonomies.php:1157
+msgid "Choose from the most used sizes"
+msgstr "Choisissez parmi les Tailles les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1208
+#: modules/equipeer/classes/taxonomies.php:1222
+#: modules/equipeer/core/class-equipeer.php:1016
+msgid "Rider Ages"
+msgstr "Ages de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1210
+msgid "Search Rider Ages"
+msgstr "Recherche Ages de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1211
+msgid "Popular Rider Ages"
+msgstr "Les Ages de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1212
+msgid "All Rider Ages"
+msgstr "Tous les Ages de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1215
+msgid "Edit Rider Age"
+msgstr "Modifier l'Age du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1216
+msgid "Update Rider Age"
+msgstr "Mettre à jour l'Age de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1217
+msgid "Add New Rider Age"
+msgstr "Ajouter un nouvel Age de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1218
+msgid "New Rider Age Name"
+msgstr "Nouvel Age du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1219
+msgid "Separate Rider Ages with commas"
+msgstr "Séparer les Ages de cavalier par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1220
+msgid "Add or remove rider ages"
+msgstr "Ajouter ou supprimer des Ages de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1221
+msgid "Choose from the most used rider ages"
+msgstr "Choisissez parmi les Ages de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1272
+#: modules/equipeer/classes/taxonomies.php:1286
+#: modules/equipeer/core/class-equipeer.php:1025
+msgid "Rider Behaviors"
+msgstr "Comportements de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1274
+msgid "Search Rider Behaviors"
+msgstr "Recherche Comportements de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1275
+msgid "Popular Rider Behaviors"
+msgstr "Les Comportements de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1276
+msgid "All Rider Behaviors"
+msgstr "Tous les Comportements de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1279
+msgid "Edit Rider Behavior"
+msgstr "Modifier le Comportement du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1280
+msgid "Update Rider Behavior"
+msgstr "Mettre à jour le Comportement de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1281
+msgid "Add New Rider Behavior"
+msgstr "Ajouter un nouveau Comportement de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1282
+msgid "New Rider Behavior Name"
+msgstr "Nouveau Comportement du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1283
+msgid "Separate Rider Behaviors with commas"
+msgstr "Séparer les Comportement de cavalier par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1284
+msgid "Add or remove rider behaviors"
+msgstr "Ajouter ou supprimer des Comportements de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1285
+msgid "Choose from the most used rider behaviors"
+msgstr "Choisissez parmi les Comportements de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1336
+#: modules/equipeer/classes/taxonomies.php:1350
+#: modules/equipeer/core/class-equipeer.php:1034
+msgid "Rider Genders"
+msgstr "Genres de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1338
+msgid "Search Rider Genders"
+msgstr "Recherche Genres de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1339
+msgid "Popular Rider Genders"
+msgstr "Les Genres de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1340
+msgid "All Rider Genders"
+msgstr "Tous les Genres de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1343
+msgid "Edit Rider Gender"
+msgstr "Modifier le Genre du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1344
+msgid "Update Rider Gender"
+msgstr "Mettre à jour le Genre de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1345
+msgid "Add New Rider Gender"
+msgstr "Ajouter un nouveau Genre de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1346
+msgid "New Rider Gender Name"
+msgstr "Nouveau Genre du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1347
+msgid "Separate Rider Genders with commas"
+msgstr "Séparer les Genres de cavalier par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1348
+msgid "Add or remove rider genders"
+msgstr "Ajouter ou supprimer des Genres de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1349
+msgid "Choose from the most used rider genders"
+msgstr "Choisissez parmi les Genres de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1400
+#: modules/equipeer/classes/taxonomies.php:1414
+#: modules/equipeer/core/class-equipeer.php:1043
+msgid "Rider Levels"
+msgstr "Niveaux de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1402
+msgid "Search Rider Levels"
+msgstr "Recherche Niveaux de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1403
+msgid "Popular Rider Levels"
+msgstr "Les Niveaux de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1404
+msgid "All Rider Levels"
+msgstr "Tous les Niveaux de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1407
+msgid "Edit Rider Level"
+msgstr "Modifier le Niveau du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1408
+msgid "Update Rider Level"
+msgstr "Mettre à jour le Niveau de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1409
+msgid "Add New Rider Level"
+msgstr "Ajouter un nouveau Niveau de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1410
+msgid "New Rider Level Name"
+msgstr "Nouveau Niveau du cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1411
+msgid "Separate Rider Levels with commas"
+msgstr "Séparer les Niveaux de cavalier par des virgules"
+
+#: modules/equipeer/classes/taxonomies.php:1412
+msgid "Add or remove rider levels"
+msgstr "Ajouter ou supprimer des Niveaux de cavalier"
+
+#: modules/equipeer/classes/taxonomies.php:1413
+msgid "Choose from the most used rider levels"
+msgstr "Choisissez parmi les Niveaux de cavalier les plus utilisés"
+
+#: modules/equipeer/classes/taxonomies.php:1467
+#: modules/equipeer/includes/functions.php:76
+#: modules/equipeer/includes/functions.php:148
+msgid "Pony"
+msgstr "Poney"
+
+#: modules/equipeer/classes/upgrade.php:77
+msgid "Client EQUIPEER"
+msgstr "Client EQUIPEER"
+
+#: modules/equipeer/classes/widgets.php:23
+msgid "Posts Carousel (EQUIPEER)"
+msgstr "Carousel (EQUIPEER)"
+
+#: modules/equipeer/classes/widgets.php:25
+msgid "Posts Carousel Widget for EQUIPEER"
+msgstr "Widget Carousel pour EQUIPEER"
+
+#: modules/equipeer/classes/widgets.php:312
+#: modules/equipeer/classes/widgets.php:410
+msgid "Learn more about this horse"
+msgstr "En savoir plus sur ce cheval"
+
+#: modules/equipeer/core/class-equipeer.php:393
+msgid "Documentation"
+msgstr "Documentation"
+
+#: modules/equipeer/core/class-equipeer.php:439
+msgid "Admin Settings"
+msgstr "Admin Settings"
+
+#: modules/equipeer/core/class-equipeer.php:503
+#: modules/equipeer/core/class-equipeer.php:518
+#: modules/equipeer/core/class-equipeer.php:528
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: modules/equipeer/core/class-equipeer.php:504
+#: modules/equipeer/core/class-equipeer.php:519
+msgid "Reset to Defaults"
+msgstr "Réinitialiser les paramètres par défaut"
+
+#: modules/equipeer/core/class-equipeer.php:544
+#: modules/equipeer/core/class-equipeer.php:546
+msgid "Annonces"
+msgstr "Annonces"
+
+#: modules/equipeer/core/class-equipeer.php:545
+#: modules/equipeer/core/class-equipeer.php:547
+msgid "Annonce"
+msgstr "Annonce"
+
+#: modules/equipeer/core/class-equipeer.php:548
+msgid "Ajouter une annonce"
+msgstr "Ajouter une annonce"
+
+#: modules/equipeer/core/class-equipeer.php:549
+msgid "Ajouter une nouvelle annonce"
+msgstr "Ajouter une nouvelle annonce"
+
+#: modules/equipeer/core/class-equipeer.php:550
+msgid "Nouvelle annonce"
+msgstr "Nouvelle annonce"
+
+#: modules/equipeer/core/class-equipeer.php:551
+msgid "Modifier une annonce"
+msgstr "Modifier une annonce"
+
+#: modules/equipeer/core/class-equipeer.php:552
+msgid "Mise &agrave; jour d'une annonce"
+msgstr "Mise à jour d'une annonce"
+
+#: modules/equipeer/core/class-equipeer.php:553
+msgid "Voir une annonce"
+msgstr "Voir une annonce"
+
+#: modules/equipeer/core/class-equipeer.php:554
+msgid "Toutes les annonces"
+msgstr "Toutes les annonces"
+
+#: modules/equipeer/core/class-equipeer.php:555
+msgid "Recherche"
+msgstr "Recherche"
+
+#: modules/equipeer/core/class-equipeer.php:556
+msgid "Parent Equine"
+msgstr "Annonce parent"
+
+#: modules/equipeer/core/class-equipeer.php:557
+msgid "Not Found"
+msgstr "Non trouvé"
+
+#: modules/equipeer/core/class-equipeer.php:558
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: modules/equipeer/core/class-equipeer.php:559
+msgid "Equine updated"
+msgstr "Annonce mise à jour"
+
+#: modules/equipeer/core/class-equipeer.php:560
+msgid "Equine scheduled"
+msgstr "Annonce programmée"
+
+#: modules/equipeer/core/class-equipeer.php:561
+msgid "Equine drafted"
+msgstr "Annonce mise en brouillon"
+
+#: modules/equipeer/core/class-equipeer.php:562
+msgid "Equine published privately"
+msgstr "Annonce publiée en privé"
+
+#: modules/equipeer/core/class-equipeer.php:567
+msgid "equines"
+msgstr "annonces"
+
+#: modules/equipeer/core/class-equipeer.php:568
+msgid "Equine listing"
+msgstr "Catalogue des annonces"
+
+#: modules/equipeer/core/class-equipeer.php:681
+#: modules/equipeer/core/class-equipeer.php:684
+msgid "Equine updated."
+msgstr "Annonce mise à jour"
+
+#: modules/equipeer/core/class-equipeer.php:682
+msgid "Custom field updated."
+msgstr "Champs personnalisé mis à jour"
+
+#: modules/equipeer/core/class-equipeer.php:683
+msgid "Custom field deleted."
+msgstr "Champs personnalisé supprimé"
+
+#: modules/equipeer/core/class-equipeer.php:686
+#, php-format
+msgid "Equine restored to revision from %s"
+msgstr "Annonce restaurée de la révision %s"
+
+#: modules/equipeer/core/class-equipeer.php:687
+msgid "Equine published."
+msgstr "Annonce publiée"
+
+#: modules/equipeer/core/class-equipeer.php:688
+msgid "Equine saved."
+msgstr "Annonce sauvegardée"
+
+#: modules/equipeer/core/class-equipeer.php:689
+msgid "Equine submitted."
+msgstr "Annonce soumise"
+
+#: modules/equipeer/core/class-equipeer.php:691
+#, php-format
+msgid "Equine scheduled for: <strong>%1$s</strong>."
+msgstr "Annonce prévue pour : <strong>%1$s</strong>"
+
+#: modules/equipeer/core/class-equipeer.php:693
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ G:i"
+
+#: modules/equipeer/core/class-equipeer.php:695
+msgid "Equine draft updated."
+msgstr "Brouillon d'annonce mis à jour"
+
+#: modules/equipeer/core/class-equipeer.php:701
+msgid "View equine"
+msgstr "Voir l'annonce"
+
+#: modules/equipeer/core/class-equipeer.php:707
+msgid "Preview equine"
+msgstr "Prévisualiser l'annonce"
+
+#: modules/equipeer/core/class-equipeer.php:846
+msgid "Media Library"
+msgstr "Médias"
+
+#: modules/equipeer/core/class-equipeer.php:854
+msgid "Plugins"
+msgstr "Plugins"
+
+#: modules/equipeer/core/class-equipeer.php:862
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: modules/equipeer/core/class-equipeer.php:871
+msgid "EQUIPEER"
+msgstr "EQUIPEER"
+
+#: modules/equipeer/core/class-equipeer.php:1096
+#, php-format
+msgid ""
+"requires Titan Framework to be installed and active. You can activate %s "
+"here."
+msgstr ""
+"nécessite que Titan Framework soit installé et actif. Vous pouvez activer %s "
+"ici."
+
+#: modules/equipeer/core/class-equipeer.php:1123
+#, php-format
+msgid "Equipeer requires minimum PHP Version %s. You must upgrade PHP."
+msgstr ""
+"Equipeer requiert la version PHP minimale %s. Vous devez mettre à jour PHP."
+
+#: modules/equipeer/includes/functions.php:7
+msgid "Enter your password"
+msgstr "Saisissez votre mot de passe"
+
+#: modules/equipeer/includes/functions.php:130
+msgid "Foal"
+msgstr "Foal"
+
+#: modules/equipeer/includes/functions.php:161
+msgid "Free"
+msgstr "Libre"
+
+#: modules/equipeer/includes/functions.php:162
+msgid "Appraised"
+msgstr "Expertisée"
+
+#: modules/equipeer/includes/functions.php:380
+#: modules/equipeer/includes/functions.php:384
+msgid "Prev"
+msgstr "Précédent"
+
+#: modules/equipeer/includes/titan-inc-credits.php:19
+msgid "CREDITS"
+msgstr "CREDITS"
+
+#: modules/equipeer/includes/titan-inc-credits.php:21
+msgid "Developed and maintained by"
+msgstr "Développé par"
+
+#: modules/equipeer/includes/titan-inc-credits.php:21
+msgid "Written with "
+msgstr "écrit avec"
+
+#: modules/equipeer/includes/titan-inc-credits.php:25
+msgid "SUPPORT"
+msgstr "SUPPORT"
+
+#: modules/equipeer/includes/titan-inc-credits.php:27
+msgid "Support contact"
+msgstr "Contact support"
+
+#: modules/equipeer/includes/titan-inc-credits.php:27
+msgid "Need more features on this plugin? Don't hesitate to contact us here"
+msgstr "Besoin de plus de fonctionnalités ? N'hésitez pas à nous contacter ici"
+
+#: modules/equipeer/includes/titan-inc-credits.php:27
+msgid "Need a plugin for Wordpress? Don't hesitate to contact us here"
+msgstr "Besoin d'un plugin Wordpress ? N'hésitez pas à nous contacter ici"
+
+#: modules/equipeer/includes/titan-inc-credits.php:27
+msgid ""
+"To contact us, You have to indicate us all the informations of your "
+"wordpress installation (Version Number WP, Version number Icustomizer, "
+"Server)"
+msgstr ""
+"Pour nous contacter, indiquez nous toutes les informations de votre "
+"installation Wordpress (Numéro de version, Numéro de version du plugin, "
+"Serveur, ...)"
+
+#: modules/equipeer/includes/titan-inc-credits.php:27
+msgid "If you would like to use our other plugins, click here "
+msgstr "Si vous voulez utiliser nos autres plugins, cliquez ici"
+
+#: modules/equipeer/includes/titan-inc-credits.php:31
+msgid "SERVICES"
+msgstr "SERVICES"
+
+#: modules/equipeer/includes/titan-inc-credits.php:37
+msgid "SECURITY"
+msgstr "SECURITE"
+
+#: modules/equipeer/includes/titan-inc-credits.php:39
+msgid "Tired of your WORDPRESS sites being attacked"
+msgstr "Fatigué de voir vos site WORDPRESS attaqué"
+
+#: modules/equipeer/includes/titan-inc-credits.php:40
+msgid "Too complicated to put back"
+msgstr "Trop compliqué à remettre en place"
+
+#: modules/equipeer/includes/titan-inc-credits.php:51
+msgid "Wordpress Themes"
+msgstr "Thèmes Wordpress"
+
+#: modules/equipeer/includes/titan-inc-credits.php:52
+msgid "Web Hosting"
+msgstr "Hébergement"
+
+#: modules/equipeer/includes/titan-inc-credits.php:53
+msgid "Manage your WP sites by ANDROID / APPLE application"
+msgstr "Gérer vos sites WP par application ANDROID / APPLE"
+
+#: modules/equipeer/includes/titan-inc-credits.php:60
+msgid "MAINTENANCE"
+msgstr "MAINTENANCE"
+
+#: modules/equipeer/includes/titan-inc-credits.php:62
+msgid "No time"
+msgstr "Pas le temps"
+
+#: modules/equipeer/includes/titan-inc-credits.php:63
+msgid "No envy"
+msgstr "Pas l'envie"
+
+#: modules/equipeer/includes/titan-inc-credits.php:64
+msgid "Too complicated"
+msgstr "Trop compliqué"
+
+#~ msgid "Appraised ads"
+#~ msgstr "Annonces expertisées"
+
+#~ msgid "Free ads"
+#~ msgstr "Annonces libres"
+
+#~ msgid "Donn&eacute;es personnelles"
+#~ msgstr "Donn&eacute;es personnelles"
+
+#~ msgid "Exportez vos donn&eacute;es personnelles"
+#~ msgstr "Exportez vos donn&eacute;es personnelles"
+
+#~ msgid "Demande de suppression de mes donn&eacute;es personnelles"
+#~ msgstr "Demande de suppression de mes donn&eacute;es personnelles"
+
+#~ msgid ""
+#~ "Saisissez votre mot de passe actuel pour demander une exportation de vos "
+#~ "donn&eacute;es personnelles."
+#~ msgstr ""
+#~ "Saisissez votre mot de passe actuel pour demander une exportation de vos "
+#~ "donn&eacute;es personnelles."
+
+#~ msgid ""
+#~ "Saisissez votre mot de passe actuel pour demander la suppression de vos "
+#~ "donn&eacute;es personnelles."
+#~ msgstr ""
+#~ "Saisissez votre mot de passe actuel pour demander la suppression de vos "
+#~ "donn&eacute;es personnelles."
+
+#~ msgid "Demander l'exportation de vos donn&eacute;es personnelles"
+#~ msgstr "Demander l'exportation de vos donn&eacute;es personnelles"
+
+#~ msgid "Demander l'effacement de vos donn&eacute;es personnelles"
+#~ msgstr "Demander l'effacement de vos donn&eacute;es personnelles"
+
+#~ msgid ""
+#~ "Un e-mail de confirmation a &eacute;t&eacute; envoy&eacute; &agrave; %s. "
+#~ "Cliquez sur le lien dans l'e-mail pour confirmer votre demande "
+#~ "d'effacement de donn&eacute;es."
+#~ msgstr ""
+#~ "Un e-mail de confirmation a &eacute;t&eacute; envoy&eacute; &agrave; %s. "
+#~ "Cliquez sur le lien dans l'e-mail pour confirmer votre demande "
+#~ "d'effacement de donn&eacute;es."
+
+#~ msgid ""
+#~ "Un e-mail de confirmation a &eacute;t&eacute; envoy&eacute; &agrave; %s. "
+#~ "Cliquez sur le lien dans l'e-mail pour confirmer votre demande "
+#~ "d'exportation de donn&eacute;es."
+#~ msgstr ""
+#~ "Un e-mail de confirmation a &eacute;t&eacute; envoy&eacute; &agrave; %s. "
+#~ "Cliquez sur le lien dans l'e-mail pour confirmer votre demande "
+#~ "d'exportation de donn&eacute;es."
+
+#~ msgid "Remove this selection?"
+#~ msgstr "Supprimer cette sélection ?"
+
+#~ msgid "Be warned"
+#~ msgstr "Être averti"
+
+#~ msgid "My password"
+#~ msgstr "Mon mot de passe"
+
+#~ msgid "My informations"
+#~ msgstr "Mes informations"
+
+#~ msgid "Link to your selection file"
+#~ msgstr "Lien vers votre fichier de sélection"
+
+#~ msgid "For expert only"
+#~ msgstr "Expert seulement"
+
+#~ msgid "Equipeer Price"
+#~ msgstr "Prix EQUIPEER"
+
+#~ msgid ""
+#~ "Nous vous avons envoy&eacute; un e-mail de v&eacute;rification. Veuillez "
+#~ "d'abord v&eacute;rifier votre compte."
+#~ msgstr ""
+#~ "Nous vous avons envoy&eacute; un e-mail de v&eacute;rification. Veuillez "
+#~ "d'abord v&eacute;rifier votre compte."
+
+#~ msgid ""
+#~ "J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+#~ "confidentialit&eacute;</a>, le <a href=\"/traitement-donnees-personnelles/"
+#~ "\" target=\"_blank\">traitement des donn&eacute;es personnelles</a> et "
+#~ "j'autorise \"%2$s\" &agrave; collecter et &agrave; stocker les "
+#~ "donn&eacute;es que je soumets via ce formulaire."
+#~ msgstr ""
+#~ "J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+#~ "confidentialit&eacute;</a>, le <a href=\"/traitement-donnees-personnelles/"
+#~ "\" target=\"_blank\">traitement des donn&eacute;es personnelles</a> et "
+#~ "j'autorise \"%2$s\" &agrave; collecter et &agrave; stocker les "
+#~ "donn&eacute;es que je soumets via ce formulaire."
+
+#~ msgid ""
+#~ "En vous inscrivant sur ce site, vous acceptez les <a href=\"%s\" target="
+#~ "\"_blank\">termes et conditions</a>."
+#~ msgstr ""
+#~ "En vous inscrivant sur ce site, vous acceptez les <a href=\"%s\" target="
+#~ "\"_blank\">termes et conditions</a>."
+
+#~ msgid ""
+#~ "<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+#~ "<br><br><a class=\"eq-button eq-button-blue\" href=\"%s\">Se connecter</"
+#~ "a></p>"
+#~ msgstr ""
+#~ "<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+#~ "<br><br><a class=\"eq-button eq-button-blue\" href=\"%s\">Se connecter</"
+#~ "a></p>"
+
+#~ msgid "Mot de passe"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Se connecter avec Facebook"
+#~ msgstr "Se connecter avec Facebook"
+
+#~ msgid "Se connecter avec Google"
+#~ msgstr "Se connecter avec Google"
+
+#~ msgid "S'enregistrer"
+#~ msgstr "S'enregistrer"
+
+#~ msgid "Fill in your address"
+#~ msgstr "Saisissez votre adresse"
+
+#~ msgid "Your selection has been sent to an EQUIPEER Coach"
+#~ msgstr "Votre sélection a été envoyée à un sélectionneur EQUIPEER"
+
+#~ msgid ""
+#~ "J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+#~ "confidentialit&eacute;</a> et j'autorise \"%2$s\" &agrave; collecter et "
+#~ "&agrave; stocker les donn&eacute;es que je soumets via ce formulaire."
+#~ msgstr ""
+#~ "J'ai lu et j'accepte la <a href=\"%1$s\" target=\"_blank\">politique de "
+#~ "confidentialit&eacute;</a> et j'autorise \"%2$s\" &agrave; collecter et "
+#~ "&agrave; stocker les donn&eacute;es que je soumets via ce formulaire."
+
+#~ msgid ""
+#~ "<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+#~ "<br><br><a class=\"equipeer-mini-button-blue\" href=\"%s\">Se connecter</"
+#~ "a></p>"
+#~ msgstr ""
+#~ "<p style=\"text-align: center;\">Vous avez d&eacute;j&agrave un compte ?"
+#~ "<br><br><a class=\"equipeer-mini-button-blue\" href=\"%s\">Se connecter</"
+#~ "a></p>"
+
+#~ msgid "Send my selection to a EQUIPEER breeder"
+#~ msgstr "Envoyer ma sélection à un sélectionneur EQUIPEER"
+
+#~ msgid "No saved searches found."
+#~ msgstr "Aucune recherche sauvegardée"
+
+#~ msgid "Save searches"
+#~ msgstr "Sauvegarder les recherches"
+
+#~ msgid "Delete"
+#~ msgstr "Supprimer définitivement"
+
+#~ msgid ""
+#~ "Your ad has been submitted. You will be notified when your ad is running "
+#~ "very soon."
+#~ msgstr ""
+#~ "Votre annonce a été soumise. Vous serez informé de la diffusion de votre "
+#~ "annonce très bientôt."
+
+#~ msgid "YOUR SALE PRICE WILL BE IN THE RANGE:"
+#~ msgstr "VOTRE PRIX DE VENTE SERA DANS LA TRANCHE :"
+
+#~ msgid "Enter a city"
+#~ msgstr "Renseignez une ville"
+
+#~ msgid "Error TMP Directory!"
+#~ msgstr "Erreur répertoire temporaire !"
+
+#~ msgid "Choose country"
+#~ msgstr "Choisissez un pays"
+
+#~ msgid "Choose type"
+#~ msgstr "Choisissez un type d'épreuve"
+
+#~ msgid "You must indicate your address in the field<br>Fill in your address"
+#~ msgstr ""
+#~ "Vous devez indiquer votre adresse dans le champ<br>Saisissez votre adresse"
+
+#~ msgid "Choose discipline"
+#~ msgstr "Choisissez une discipline"
+
+#~ msgid "without TVA"
+#~ msgstr "sans TVA"
+
+#~ msgid ""
+#~ "No equine available online but we have %s horses which correspond in our "
+#~ "Off-market catalog."
+#~ msgstr ""
+#~ "Aucun équidé disponible en ligne mais nous avons %s chevaux qui "
+#~ "correspondent dans notre catalogue Off-market."
+
+#~ msgid "Prix"
+#~ msgstr "Prix"
+
+#~ msgid "Sexe"
+#~ msgstr "Sexe"
+
+#~ msgid ""
+#~ "If not filled, Wordpress Default Admin Email will be used instead: %s"
+#~ msgstr ""
+#~ "Si non rempli, l'email Admin par défaut de Wordpress sera utilisé à la "
+#~ "place : % s"
+
+#~ msgid "Disicipline"
+#~ msgstr "Discipline"
+
+#~ msgid "Find the horse that suits you"
+#~ msgstr "Trouvez le cheval qui vous correspond"
+
+#~ msgid "Which category?"
+#~ msgstr "Quelle catégorie ?"
+
+#~ msgid "What level?"
+#~ msgstr "Quel niveau ?"
+
+#~ msgid "How old?"
+#~ msgstr "Quel âge ?"
+
+#~ msgid "How much?"
+#~ msgstr "Quel budget ?"
+
+#~ msgid "What gender?"
+#~ msgstr "Quel sexe ?"
+
+#~ msgid "Which location?"
+#~ msgstr "Quelle localisation ?"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "You're not logged in ?"
+#~ msgstr "Vous n'êtes pas connecté.e ?"
+
+#~ msgid "Ads"
+#~ msgstr "Annonce"
+
+#~ msgid "Ads Type"
+#~ msgstr "Type d'annonces"
+
+#~ msgid "Free management of the ad"
+#~ msgstr "Gestion libre de l'annonce"
+
+#~ msgid "Ad Management by Equipeer"
+#~ msgstr "Gestion des annonces par EQUIPEER"
+
+#~ msgid "Years"
+#~ msgstr "Années"
+
+#~ msgid "Year"
+#~ msgstr "Année"
+
+#~ msgid "Equid&eacute;s"
+#~ msgstr "Equidés"
+
+#~ msgid "Equid&eacute;"
+#~ msgstr "Equidé"
+
+#~ msgid "Ajouter un &eacute;quid&eacute;"
+#~ msgstr "Ajouter un équidé"
+
+#~ msgid "Ajouter un nouvel &eacute;quid&eacute;"
+#~ msgstr "Ajouter un nouvel équidé"
+
+#~ msgid "Nouvel &eacute;quid&eacute;"
+#~ msgstr "Nouvel équidé"
+
+#~ msgid "Modifier un &eacute;quid&eacute;"
+#~ msgstr "Modifier un équidé"
+
+#~ msgid "Mise &agrave; jour d'un &eacute;quid&eacute;"
+#~ msgstr "Mise à jour d'un équidé"
+
+#~ msgid "Voir un &eacute;quid&eacute;"
+#~ msgstr "Voir un équidé"
+
+#~ msgid "Tous les Equid&eacute;s"
+#~ msgstr "Tous les Équidés"
+
+#~ msgid "Add equine "
+#~ msgstr "Ajouter un Equidé"
+
+#~ msgid "Potential description"
+#~ msgstr "Potentiel description"
+
+#~ msgid "Coach's personal notes"
+#~ msgstr "Notes personnelles du sélectionneur"
+
+#~ msgid "Impression"
+#~ msgstr "Impression"
+
+#~ msgid "Google Place API"
+#~ msgstr "Google Place API"
+
+#~ msgid "Birth"
+#~ msgstr "Date de naissance"
+
+#~ msgid "EQUIPEER Commission"
+#~ msgstr "Commission EQUIPEER"
+
+#~ msgid "Fichier g&eacute;n&eacute;r&eacute; avec succ&egrave;s"
+#~ msgstr "Fichier généré avec succès"
+
+#~ msgid "Erreur lors de la g&eacute;n&eacute;ration du fichier !!!"
+#~ msgstr "Erreur lors de la génération du fichier !!!"
+
+#~ msgid "CODEX"
+#~ msgstr "CODEX"
+
+#~ msgid "New title"
+#~ msgstr "Nouveau titre"
+
+#~ msgid "Choose the number of acronyms EUROS"
+#~ msgstr "Choisissez le nombre de sigles EUROS"
+
+#~ msgid "Fill in your Google Place API Key"
+#~ msgstr "Remplissez votre clé API Google Place"
+
+#~ msgid "New Equine"
+#~ msgstr "Nouvel équidé"
+
+#~ msgid "View Equine"
+#~ msgstr "Voir Equidé"
+
+#~ msgid "Search Equine"
+#~ msgstr "Rechercher un équidé"
+
+#~ msgid "Horse updated"
+#~ msgstr "Equidé mis à jour"
+
+#~ msgid "Horse scheduled"
+#~ msgstr "Equidé publié plus tard"
+
+#~ msgid "Horse drafted"
+#~ msgstr "Equidé en brouillon"
+
+#~ msgid "Horse published privately"
+#~ msgstr "Equidé publié en privé"
+
+#~ msgid "Type Video"
+#~ msgstr "Vidéo type"
+
+#~ msgid "Riding comfort - Gallop - Travail"
+#~ msgstr "Confort cavalier - Galop - Travail"
+
+#~ msgid "Flexibility"
+#~ msgstr "Flexibilité"
+
+#~ msgid "Blood"
+#~ msgstr "Sang"
+
+#~ msgid "Mouth"
+#~ msgstr "Bouche"
+
+#~ msgid "Riding comfort"
+#~ msgstr "Confort cavalier"
+
+#~ msgid ""
+#~ "Behavior / General Character: in the stable, on foot, in transport, in "
+#~ "the tether, general character"
+#~ msgstr ""
+#~ "Comportement / Caractère général : à l'écurie, à pied, au transport, en "
+#~ "longe"
+
+#~ msgid ""
+#~ "Behavior: in the stable, on foot, in transport, in the tether, general "
+#~ "character"
+#~ msgstr ""
+#~ "Comportement : à l'écurie, à pied, au transport, en longe, caractère "
+#~ "général"
+
+#~ msgid "Birthday"
+#~ msgstr "Anniversaire"
+
+#~ msgid "Choose horse type"
+#~ msgstr "Choisissez un type d'équidés"
+
+#~ msgid "Choose ad type"
+#~ msgstr "Choisissez un type d'annonces"
+
+#~ msgid "Choose a type of group"
+#~ msgstr "Choisissez un type de groupe"
+
+#~ msgid "Individual"
+#~ msgstr "Particulier"
+
+#~ msgid "Particulier"
+#~ msgstr "Particulier"
+
+#~ msgid "Select a group type"
+#~ msgstr "Sélectionnez un type de groupe"
+
+#~ msgid "Birthday Date (YYYY-MM-DD)"
+#~ msgstr "Date anniversaire (YYYY-MM-DD)"
+
+#~ msgid "Club"
+#~ msgstr "Club"
+
+#~ msgid "Activity"
+#~ msgstr "Activité"
+
+#~ msgid "Activity Description"
+#~ msgstr "Description de l'activité"
+
+#~ msgid "Person Type"
+#~ msgstr "Type de personne"
+
+#~ msgid "Choose Person Type"
+#~ msgstr "Choisissez un type de personne"
+
+#~ msgid "Business"
+#~ msgstr "Entreprise"
+
+#~ msgid "Organization"
+#~ msgstr "Association"
+
+#~ msgid "Only for user type"
+#~ msgstr "Seulement pour les types d'utilisateur"
+
+#~ msgid "Professional"
+#~ msgstr "Professionnel"
+
+#~ msgid "Country of residence"
+#~ msgstr "Pays de résidence"
+
+#~ msgid "Choose your Country of residence"
+#~ msgstr "Choisissez le pays de résidence"
+
+#~ msgid "Company number"
+#~ msgstr "Numéro d'entreprise"
+
+#~ msgid "Remove Image"
+#~ msgstr "Supprimer l'image"
+
+#~ msgid "Upload Image"
+#~ msgstr "Upload image"
+
+#~ msgid "My Text "
+#~ msgstr "Text"
+
+#~ msgid "My Textarea "
+#~ msgstr "Textarea"
+
+#~ msgid "My Checkbox "
+#~ msgstr "Checkbox"
+
+#~ msgid "My select "
+#~ msgstr "Select"
+
+#~ msgid "My Radio Filed"
+#~ msgstr "Radio coché"
+
+#~ msgid "My Date "
+#~ msgstr "Date"
+
+#~ msgid "My Time "
+#~ msgstr "Heure"
+
+#~ msgid "My Color "
+#~ msgstr "Couleur"
+
+#~ msgid "My Image "
+#~ msgstr "Image"
+
+#~ msgid "My File "
+#~ msgstr "Fichier"
+
+#~ msgid "My wysiwyg Editor "
+#~ msgstr "Editeur"
+
+#~ msgid "My Taxonomy "
+#~ msgstr "Taxonomie"
+
+#~ msgid "My Posts "
+#~ msgstr "Posts"
+
+#~ msgid "This is a Repeater Block"
+#~ msgstr "C'est un bloc répéteur"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Helpers"
+#~ msgstr "Aides"
+
+#~ msgid "Add New"
+#~ msgstr "Ajouter"
+
+#~ msgid "Lists"
+#~ msgstr "Listes"
+
+#~ msgid "All Groups"
+#~ msgstr "Tous les groupes"
+
+#~ msgid "Catalog"
+#~ msgstr "Catalogue"
+
+#~ msgid "Client"
+#~ msgstr "Client"

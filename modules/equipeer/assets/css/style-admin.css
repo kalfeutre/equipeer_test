@@ -1,0 +1,618 @@
+/* -------------------------------- */
+/*        CSS EQUIPEER ADMIN        */
+/* -------------------------------- */
+
+.equipeer-adminbar-submenu {
+	font-size: 20px !important;
+	-webkit-font-smoothing: antialiased !important;
+	font-weight: 400 !important;
+	padding-right: 2px !important;
+	font-family: dashicons !important;
+	margin-top: -2px !important;
+}
+
+.equipeer-adminbar-submenu:before {
+	color: rgba(240, 245, 250, 0.8) !important;
+}
+
+.titan-framework-panel-wrap .options-container {
+	margin-top: 10px;
+}
+
+.titan-framework-panel-wrap a.nav-tab {
+	background: #eeecec;
+	border-color: #eeecec;
+	color: #555555;
+}
+.titan-framework-panel-wrap a.nav-tab:hover {
+	background: #555555;
+	border-color: #555555;
+	color: #eeecec;
+}
+
+.titan-framework-panel-wrap a.nav-tab-active {
+	background: #555555;
+	border-color: #555555;
+	color: #eeecec;
+}
+.titan-framework-panel-wrap a.nav-tab-active:hover {
+	background: #555555;
+	border-color: #555555;
+	color: #eeecec;
+}
+
+.equipeer-admin-color, .equipeer-blue {
+	color: #0074a2;
+}
+h3 span.equipeer-blue {
+	font-size: 1.5em;
+}
+
+.equipeer_category_link {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.equipeer_p_form {
+	width: 300px;
+	float: left;
+}
+.equipeer_p_form label:not(.switch) {
+	font-weight: bold;
+	padding: 0 0 1em 0;
+}
+
+.equipeer_p_form_s {
+	width: 250px;
+	float: left;
+}
+.equipeer_p_form_s label:not(.switch) {
+	font-weight: bold;
+	padding: 0 0 1em 0;
+}
+
+.equipeer_clear {
+	clear: both;
+}
+
+.equipeer-red {
+	color: red;
+}
+
+.equipeer-none {
+	display: none;
+}
+
+.equipeer-input-date {
+	width: 100px;	
+}
+
+.equipeer-input-number {
+	width: 80px;	
+}
+
+.equipeer-input-long {
+	width: 400px;	
+}
+
+.equipeer-td-input {
+	float: left;
+	margin-right: 1em;
+}
+
+select.equipeer-select {
+	width: 220px;
+	padding: 1px 5px 0;
+}
+select.equipeer-select-number {
+	width: 80px;
+	padding: 5px;
+}
+
+.equipeer-select-2 {
+	width: 400px;
+}
+
+.equipeer-input-prefix {
+	background-color: grey;
+	padding: 7px;
+	color: white;
+	border-radius: 3px;
+	margin: 0 -7px 0 0;
+	font-weight: bold;
+}
+.equipeer-input-suffix {
+	background-color: grey;
+	padding: 7px;
+	color: white;
+	border-radius: 3px;
+	margin: 0 0 0 -7px;
+	font-weight: bold;
+}
+
+.equipeer-sold-watermark {
+	position: absolute !important;
+	width: 8em;
+	top: 0.95em;
+	border: 0 !important;
+	left: 0.8em;
+}
+tr.type-equine td.column-photo {
+	position: relative;
+}
+
+/* --- Buttons --- */
+.equipeer-accept {
+	background-color: #4CAF50;
+	border: 1px solid #4CAF50;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 0 0.5em 0 0;
+	-o-transition:color .2s ease-out, background .5s ease-in;
+	-ms-transition:color .2s ease-out, background .5s ease-in;
+	-moz-transition:color .2s ease-out, background .5s ease-in;
+	-webkit-transition:color .2s ease-out, background .5s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:color .2s ease-out, background .5s ease-in;
+}
+.equipeer-accept:hover {
+	background-color: white;
+	border: 1px solid #4CAF50;
+	color: #4CAF50;
+	cursor: pointer;
+}
+.equipeer-reject {
+	background-color: red;
+	border: 1px solid red;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 0 0 0 0.5em;
+	-o-transition:color .2s ease-out, background .5s ease-in;
+	-ms-transition:color .2s ease-out, background .5s ease-in;
+	-moz-transition:color .2s ease-out, background .5s ease-in;
+	-webkit-transition:color .2s ease-out, background .5s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:color .2s ease-out, background .5s ease-in;
+}
+.equipeer-reject:hover {
+	background-color: white;
+	border: 1px solid red;
+	color: red;
+	cursor: pointer;
+}
+
+/* --- FORM CONTROL --- */
+.equipeer-label {
+	display: inline-block;
+	margin-bottom: .5rem;
+	color: grey;
+}
+.equipeer-form-control {
+	display: block;
+	width: 100%;
+	height: calc(1.5em + .75rem + 2px);
+	padding: .375rem .75rem !important;
+	font-size: 0.9rem;
+	font-weight: 400;
+	line-height: 1.5 !important;
+	color: #495057 !important;
+	background-color: #fff !important;
+	background-clip: padding-box;
+	border: 1px solid #ced4da !important;
+	border-radius: .25rem !important;
+	transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+textarea.equipeer-form-control {
+	height: 100px;
+}
+#moderate-reject-div {
+	color: grey;
+}
+.equipeer-title-before-after {
+  display: table;
+  white-space: nowrap;
+  text-align: center;
+  margin: 0.5em 0 !important;
+}
+.equipeer-title-before-after:before, .equipeer-title-before-after:after {
+  content: "";
+  display: table-cell;
+  width: 50%;
+  background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=) repeat-x left center;
+}
+
+/* --- VETO --- */
+
+#veterinaire_document_none, #veterinaire_remove_button {
+	display: block;
+	margin: 0 0 0.5em 0;
+}
+#veterinaire_document_url {
+	margin: 0 0 0.7em 0;
+	cursor: pointer;
+	border: 1px solid transparent;
+	border-radius: 7px;
+}
+#veterinaire_document_url:hover {
+	border: 1px solid black;
+}
+
+.equipeer_datepicker {
+	float: left;
+}
+.ui-datepicker-trigger {
+	padding: 0.2em 0.5em 0 0.3em;
+	float: left;
+	cursor: pointer;
+}
+#get-sire {
+	margin-top: 0.1em;
+	padding: 0 1em 0.3em;
+	line-height: 1;
+}
+#get-sire:before {
+	content: "⌕";
+	font-size: 1.8em;
+	font-weight: bold;
+	padding: 0 0.3em 0 0;
+}
+
+#normal-sortables h2 {
+	border-bottom: 1px solid lightgray;
+}
+
+/* ************** */
+/* ADMIN CONTROLS */
+/* ************** */
+#equipeer-controls {
+	position: fixed;
+	background-color: white;
+	border-bottom: 1px solid lightgrey;
+	margin-top: -60px;
+	width: 100%;
+	height: 45px;
+	margin-left: -30px;
+	padding: 0.8em 30px 0.3em 1em;
+	text-align: left;
+	z-index: 998;
+}
+#equipeer-controls > #logo {
+	color: #444343;
+	float: left;
+	font-size: 2em;
+	margin: 7px 0 0 10px;
+	z-index: 998;
+}
+#equipeer-controls > #equipeer-publish {
+	background-color: #0071a1;
+	color: white;
+	font-size: 1.2em;
+	border-radius: 7px;
+	padding: 0.2em 2em;
+	margin: 0 1em 0 0;
+	-o-transition:color .2s ease-out, background .5s ease-in;
+	-ms-transition:color .2s ease-out, background .5s ease-in;
+	-moz-transition:color .2s ease-out, background .5s ease-in;
+	-webkit-transition:color .2s ease-out, background .5s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:color .2s ease-out, background .5s ease-in;
+}
+#equipeer-controls > #equipeer-publish:hover {
+	background-color: white;
+	color: #0071a1;
+}
+
+#equipeer-controls > #equipeer-preview, #equipeer-controls > #equipeer-link {
+	background-color: white;
+	color: #0071a1;;
+	font-size: 1.2em;
+	border-radius: 7px;
+	padding: 0.2em 2em;
+	margin: 0 1em 0 0;
+	-o-transition:color .2s ease-out, background .5s ease-in;
+	-ms-transition:color .2s ease-out, background .5s ease-in;
+	-moz-transition:color .2s ease-out, background .5s ease-in;
+	-webkit-transition:color .2s ease-out, background .5s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:color .2s ease-out, background .5s ease-in;
+}
+#equipeer-controls > #equipeer-preview:hover, #equipeer-controls > #equipeer-link:hover {
+	background-color: #0071a1;;
+	color: white;
+}
+.equipeer-space {
+	display: block;
+	width: 1em;
+	height: 1em;
+}
+.equipeer-space-titan {
+	display: block;
+	width: 1em;
+	height: 2em;
+}
+
+/* ******************************************************************************************* */
+/*                                     ALERT MESSAGES                                          */
+/* ------------------------------------------------------------------------------------------- */
+/*  <div class="equipeer-msg equipeer-msg-danger">                                                                        */
+/*    <span class="equipeer-msg-closebtn" onclick="this.parentElement.style.display='none';">&times;</span> */
+/*    This is an alert box.                                                                    */
+/*  </div>                                                                                     */
+/* ******************************************************************************************* */
+.equipeer-msg {
+	padding: 20px;
+	margin-bottom: 15px;
+	color: white;
+	opacity: 1;
+	transition: opacity 0.6s; /* 600ms to fade out */
+}
+.equipeer-msg-danger {
+	background-color: #f44336;
+}
+.equipeer-msg-success {
+	background-color: #4CAF50;
+}
+.equipeer-msg-info {
+	background-color: #2196F3;
+}
+.equipeer-msg-warning {
+	background-color: #ff9800;
+}
+.equipeer-msg-closebtn {
+	margin-left: 15px;
+	color: white;
+	font-weight: bold;
+	float: right;
+	font-size: 22px;
+	line-height: 20px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+.equipeer-msg-closebtn:hover {
+	color: black;
+}
+
+/* ********* */
+/* MODAL BOX */
+/* ********* */
+/* The Modal (background) */
+.equipeer-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10000; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.equipeer-modal-content {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 100%;
+	max-width: 500px;
+}
+/* The Close Button */
+.equipeer-modal-close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.equipeer-modal-close:hover,
+.equipeer-modal-close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* ************* */
+/* TOGGLE SWITCH */
+/* ************* */
+.switch {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width: 56px;
+  height: 20px;
+  padding: 3px;
+  background-color: white;
+  border-radius: 18px;
+  box-shadow: inset 0 -1px white, inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+  background-image: -webkit-linear-gradient(top, #eeeeee, white 25px);
+  background-image: -moz-linear-gradient(top, #eeeeee, white 25px);
+  background-image: -o-linear-gradient(top, #eeeeee, white 25px);
+  background-image: linear-gradient(to bottom, #eeeeee, white 25px);
+}
+
+.switch-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.switch-label {
+  position: relative;
+  display: block;
+  height: inherit;
+  font-size: 10px;
+  text-transform: uppercase;
+  background: #eceeef;
+  border-radius: inherit;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.15);
+  -webkit-transition: 0.15s ease-out;
+  -moz-transition: 0.15s ease-out;
+  -o-transition: 0.15s ease-out;
+  transition: 0.15s ease-out;
+  -webkit-transition-property: opacity background;
+  -moz-transition-property: opacity background;
+  -o-transition-property: opacity background;
+  transition-property: opacity background;
+}
+.switch-label:before {
+  position: absolute;
+  top: 50%;
+  margin-top: -.5em;
+  line-height: 1;
+  -webkit-transition: inherit;
+  -moz-transition: inherit;
+  -o-transition: inherit;
+  transition: inherit;
+}
+.switch-label:before {
+  content: attr(data-off);
+  right: 11px;
+  color: #aaa;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
+}
+.switch-label:after {
+	content: attr(data-on);
+	left: 11px;
+	color: white;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+	opacity: 0;
+	padding: 2em 0 0 1em;
+	line-height: 2em;
+}
+
+.switch-input:checked ~ .switch-label {
+  background: #47a8d8;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15), inset 0 0 3px rgba(0, 0, 0, 0.2);
+}
+.switch-input:checked ~ .switch-label:before {
+  opacity: 0;
+}
+.switch-input:checked ~ .switch-label:after {
+  opacity: 1;
+}
+
+.switch-handle {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 18px;
+  height: 18px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+  background-image: -webkit-linear-gradient(top, white 40%, #f0f0f0);
+  background-image: -moz-linear-gradient(top, white 40%, #f0f0f0);
+  background-image: -o-linear-gradient(top, white 40%, #f0f0f0);
+  background-image: linear-gradient(to bottom, white 40%, #f0f0f0);
+  -webkit-transition: left 0.15s ease-out;
+  -moz-transition: left 0.15s ease-out;
+  -o-transition: left 0.15s ease-out;
+  transition: left 0.15s ease-out;
+}
+.switch-handle:before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -6px 0 0 -6px;
+  width: 12px;
+  height: 12px;
+  background: #f9f9f9;
+  border-radius: 6px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.02);
+  background-image: -webkit-linear-gradient(top, #eeeeee, white);
+  background-image: -moz-linear-gradient(top, #eeeeee, white);
+  background-image: -o-linear-gradient(top, #eeeeee, white);
+  background-image: linear-gradient(to bottom, #eeeeee, white);
+}
+.switch-input:checked ~ .switch-handle {
+  left: 40px;
+  box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+.switch-green > .switch-input:checked ~ .switch-label {
+  background: #4fb845;
+}
+.switch-name {
+	margin: 0.3em 0 0 0;
+	display: inline-block;
+	font-size: 0.9em;
+}
+.switch-separator {
+	width: 80px;
+	display: inline-block;
+}
+
+/* ===== IMAGE ROTATE ===== */
+.image-ajax-rotate {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 120px;
+    height: 120px;
+    margin:-60px 0 0 -60px;
+    -webkit-animation: spin 4s linear infinite;
+    -moz-animation: spin 4s linear infinite;
+    animation: spin 4s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+/* ===== CREDITS ===== */
+.informatux-credits, .informatux-support {
+	float: left;
+	margin-right: 20px;
+}
+.informatux_gs_image {
+	max-width: 250px;
+}
+.informatux_outerdiv {
+	height: auto;
+	overflow: hidden;
+	top: 0px;
+	left: 0px;
+	position: relative;
+}
+.informatux_outer {
+	border: solid 1px lightgrey;
+	width: 250px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0.5em 1em 0;
+	position: relative;
+	text-align: left;
+	box-shadow: 0 1px 3px rgba(0,0,0, 0.12);
+}
+.informatux_outer.informatux_last {
+	margin: 0 0 1em 0 !important;
+}
+.informatux_outer .informatux_centered {
+	background-color: skyblue;
+	color: white;
+	text-align: center;
+	margin-top: -4px;
+}
+.informatux_outer p {
+	font-size: 0.8em;
+	line-height: 1.2em;
+	padding: 0.2em 1em 1em 1em;
+	margin: 0;
+	text-align: center;
+}
+
+.wdisabled {
+	pointer-events: none;
+	cursor: default;
+}

@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+		<style>
+			@page {
+				size: A4;
+				margin: 0;
+			}
+			@media print {
+				html, body {
+					width: 210mm;
+					height: 297mm;
+				}
+			  }
+			body {font-family: 'Roboto', sans-serif;
+				font-size: 10pt;
+				background-image: url('https://equipeer.com/uploads/pdf/bg/page-1.png');
+			}
+			p {	margin: 0pt; }
+			.center { text-align: center; }
+			.right { text-align: right; }
+			.bold { font-weight: bold; }
+			.bggrey { background-color: #EEEEEE; }
+			.fs7pt { font-size: 7pt; }
+			#created {
+				position: absolute;
+				top: 500px;
+				left: 00px;
+				font-size: 15pt;
+				color: white;
+				width: 100%;
+				text-align: center;
+			}
+			h2 {
+				text-transform: uppercase;
+				padding-bottom: 15px;
+				font-size: 18pt
+			}
+		</style>
+	</head>
+	<body>
+	
+		<div id="created">
+			<h2>{PAGE_1_SELECTION_TEXT}</h2>
+			{PAGE_1_CREATED}
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tax meta class\n"
+"POT-Creation-Date: 2019-11-20 15:13+0100\n"
+"PO-Revision-Date: 2019-11-20 15:13+0100\n"
+"Last-Translator: David Thomas <anou@smol.org>\n"
+"Language-Team: David THOMAS <anou@smol.org>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ../../Tax-meta-class\n"
+
+#: ../../Tax-meta-class/Tax-meta-class.php:379
+#: ../../Tax-meta-class/Tax-meta-class.php:426
+msgid "Remove"
+msgstr ""
+
+#: ../../Tax-meta-class/Tax-meta-class.php:392
+msgid "Add"
+msgstr ""
+
+#: ../../Tax-meta-class/Tax-meta-class.php:725
+msgid "Remove Image"
+msgstr ""
+
+#: ../../Tax-meta-class/Tax-meta-class.php:727
+msgid "Upload Image"
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:43
+#: ../../Tax-meta-class/class-usage-demo.php:74
+msgid "My Text "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:45
+#: ../../Tax-meta-class/class-usage-demo.php:75
+msgid "My Textarea "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:47
+#: ../../Tax-meta-class/class-usage-demo.php:76
+msgid "My Checkbox "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:49
+msgid "My select "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:51
+msgid "My Radio Filed"
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:53
+msgid "My Date "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:55
+msgid "My Time "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:57
+msgid "My Color "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:59
+#: ../../Tax-meta-class/class-usage-demo.php:77
+msgid "My Image "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:61
+msgid "My File "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:63
+msgid "My wysiwyg Editor "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:65
+msgid "My Taxonomy "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:67
+msgid "My Posts "
+msgstr ""
+
+#: ../../Tax-meta-class/class-usage-demo.php:83
+msgid "This is a Repeater Block"
+msgstr ""

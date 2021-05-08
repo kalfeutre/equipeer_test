@@ -1,0 +1,706 @@
+/*
+Theme Name: EQUIPEER Theme Child
+Theme URI: https://informatux.com
+Author: INFORMATUX
+Author URI: https://informatux.com
+Description:  The best WordPress starter theme based on the most powerful frameworks in the world: Twitter Bootstrap (the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web) and Font Awesome (or Fontawesome, a full suite of 675+ pictographic icons for easy scalable vector graphics on websites). This theme, like WordPress, is licensed under the GPL. Page templates includes Right-sidebar (default page template), Left-Sidebar, Full-Width, Blank with container, Blank without container Page. Other features - Currently using Bootstrap v4.0.0 , Widgetized footer area, WooCommerce ready, Compatible with Contact Form 7, Compatible with Visual Composer, Compatible with Elementor Page Builder. This theme will be an active project which we will update from time to time. Theme URI: https://afterimagedesigns.com/wp-bootstrap-starter/
+Version: 1.1.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: wp-bootstrap-starter-child
+Template: wp-bootstrap-starter
+Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, right-sidebar, custom-background, e-commerce, theme-options, sticky-post, full-width-template
+*/
+
+/* ----- GENERAL -----  */
+#masthead-print {
+	display: none;
+	text-align: center;
+}
+.eq-blue {
+	color: #0e2d4c !important;
+}
+.eq-red {
+	color: #d1023e !important;
+}
+.eq-grey {
+	color: grey !important;
+}
+.eq-lgrey {
+	color: lightgrey !important;
+}
+.eq-italic {
+	font-style: italic !important;
+}
+.eq-fs400 {
+	font-weight: 400 !important; 
+}
+
+.eq-description {
+	width: 100%;
+	text-align: center;
+	font-style: italic;
+	font-weight: 200;
+	color: #0e2d4c;
+}
+.eq-cursor {
+	cursor: pointer;
+}
+.eq-nocursor {
+	cursor: default;
+}
+.eq-w100 {
+	width: 100% !important;
+}
+.eq-disabled {
+	pointer-events: none !important;
+	cursor: default !important;
+}
+.eq-center {
+	text-align: center;
+}
+
+.form-signin {
+	width: 100%;
+	max-width: 450px;
+	padding: 15px;
+	margin: auto;
+}
+fieldset.fieldset-wpum_field_16_ans_et_plus > label:nth-of-type(1) {
+	display: none;
+}
+.equipeer-mini-button-blue {
+    background-color: #0e2d4c;
+    color: white !important;
+    padding: 0.4em 0.6em;
+    font-size: 0.8em;
+    border-radius: 5px;
+}
+.equipeer-alert-button-blue {
+	background-color: #0e2d4c;
+}
+.equine-load-45 {
+	padding: 0 4.5em;
+}
+.spinner-equipeer-add-del:hover i {
+	color: #d1023e !important;
+}
+.btn-transparent:hover {
+	color: white !important;
+	background-color: #0e2d4c !important;
+}
+
+/* =============== */
+/* === ACCOUNT === */
+/* =============== */
+#wpum-account-forms-tabs li.tab-view {
+	display: none;
+}
+#account-form-ads img.card-img-top, #account-form-selection img.card-img-top {
+	width: 100px !important;
+	height: 70px !important;
+}
+
+/* =========== */
+.yobroExternalChatModalHolder .modal-dialog {
+	max-width: 100% !important;
+}
+.yoBro-chatBody-header .new-msg {
+	display: none !important;
+}
+.ownerMsg .yoBro-chatMsgContent {
+	background-color: #0e2d4c !important;
+}
+.ownerMsg .yoBro-chatMsgContent .msgText, .ownerMsg .yoBro-chatMsgContent .msgText p {
+	color: white !important;
+}
+.single-equine #secondary div {
+	/*z-index: -1;*/
+}
+.yobroExternalChatModalHolder .modal-dialog .modal-content .modal-header.yobro-modal-header > button span {
+	color: darkgrey;
+	line-height: 2;
+	margin-right: 0.5em;
+}
+div#yobro-new-message div div div a.console-notification-message {
+	padding: 0.5rem 1rem;
+	font-size: 1.171875rem;
+	line-height: 1.5;
+	border-radius: 0.3rem;
+	width: 100%;
+	text-align: center;
+	text-decoration: none !important;
+	border-bottom-width: 1px !important;
+	display: inline-block;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out !important;
+	background-color: #ce023f;
+	border: 1px solid #ce023f;
+	color: white !important;
+	margin-bottom: 0.8em;
+}
+div#yobro-new-message div div div a.console-notification-message:hover {
+	background-color: white;
+	border: 1px solid #ce023f;
+	color: #ce023f !important;
+}
+div#yobro-new-message div div div a.console-notification-message:before {
+    content: "\f086";  /* this is your text. You can also use UTF-8 character codes as I do here */
+    font-family: FontAwesome;
+	padding: 8px;
+}
+.swal-button {
+	background-color: #0e2d4c !important;
+}
+.swal-button.swal-button--cancel {
+	background-color: #d1023e !important;
+	color: white !important;
+}
+
+/* =============================== */
+/* === BUTTONS SWEET ALERT (2) === */
+/* =============================== */
+.swal2-close {
+	outline-style: none;
+	outline: none;
+}
+
+.swal2-div {
+	margin: 1em 0 0;
+}
+.swal2-styled.swal2-link {
+    border: 1px solid #0e2d4c;
+    border-radius: .25em;
+    background: initial;
+    background-color: #0e2d4c;
+    color: #fff;
+    font-size: 1.0625em;
+	padding: 0.6em 0.9em;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	/* For the proper property */
+	transition:.5s;
+}
+.swal2-styled.swal2-link:hover {
+    border: 1px solid #0e2d4c;
+    background-color: white;
+    color: #0e2d4c;
+}
+
+/* =========================== */
+/* === QUESTIONNAIRE ACHAT === */
+/* =========================== */
+.questionnaire-achat-bg {
+	background: url(assets/images/questionnaire-achat-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.questionnaire-achat {
+	background: rgba(236, 240, 241, 0.8) !important;
+	border: 1px solid #0e2d4c;
+}
+.questionnaire-achat,
+.questionnaire-achat h2,
+.questionnaire-achat h3,
+.questionnaire-achat p
+{
+	color: #0e2d4c;
+}
+.questionnaire-achat h2 {
+	color: #d1023e !important;
+	margin: 0 !important;
+	border-bottom: 0;
+	font-size: 3em;
+}
+.questionnaire-achat h3 {
+	font-size: 2.7em;
+}
+.questionnaire-achat .eq-button {
+	padding: 1em 3em;
+}
+#questionnaire-container {
+	min-height: 200px;
+}
+.questionnaire-discipline {
+	
+}
+.questionnaire-h3-fig {
+	font-weight: 400;
+	font-size: 15px !important;
+}
+
+#your-search-criteria {
+	border: 1px solid #0e2d4c;
+	padding: 1em;
+	margin: -0.7em 0.4em 1em;
+	color: #0e2d4c;
+}
+#your-search-criteria h3 {
+	color: #0e2d4c;
+	font-size: 1.2em;
+	border-bottom: 1px solid #0e2d4c;
+}
+
+.wpum-action-links {
+	text-align: center;
+}
+
+.lead,
+.lead figcaption
+{
+	color: #0e2d4c;
+}
+.lead figure:hover figcaption,
+.lead figure.jqhover figcaption
+{
+	color: #d1023e;
+	cursor: pointer;
+}
+.lead img {
+	filter: grayscale(100%);
+	margin: 0.3em;
+	border: 2px solid transparent !important;
+}
+.lead img:hover,
+.lead img:active,
+.lead img.jqhover
+{
+	filter: grayscale(0%);
+	cursor: pointer;
+	border: 2px solid #d1023e !important;
+}
+.border-none {
+	border: 0 !important;
+}
+.border-none:hover {
+	border: 0 !important;
+}
+.no-cursor {
+	cursor: none !important;
+}
+.no-cursor:hover {
+	cursor: none !important;
+}
+
+/* =========================== */
+/* ====== EQUINE SINGLE ====== */
+/* =========================== */
+.equipeer-single-media-1 {
+	background: url(assets/images/photo-1-bg-canvas.jpg);
+	position: relative;
+}
+#addthis_tool_by_class_name_widget-2 {
+	margin-top: 1em;
+}
+.img-width-100 {
+	width: 100%;
+}
+
+/* =========================== */
+/* ===== EQUINE ARCHIVE ====== */
+/* =========================== */
+.p-3-eq {
+	padding: 0.3rem !important;
+}
+.p-3-eq .card {
+	border: 1px solid rgba(206, 2, 63, 0.5);
+	border-radius: 0px;
+}
+.p-3-eq img.card-img-top {
+	border-top-left-radius: calc(0rem - 0px);
+	border-top-right-radius: calc(0rem - 0px);
+}
+.thumbnail-type {
+	object-fit: cover;
+	height: 240px;	
+}
+img.thumbnail-type {
+	object-fit: cover;
+	height: 160px;	
+}
+.eq-password-mob {
+	width: 88% !important;
+	float: left;
+}
+@media (max-width: 768px) {
+	img.thumbnail-type {
+		object-fit: cover;
+		height: 230px !important;	
+	}
+	img.eq-carousel-mob {
+		object-fit: cover;
+		height: 23em !important;	
+	}
+	.eq-password-mob {
+		width: 88% !important;
+	}
+}
+.horse-thumb-title h3 {
+	background-color: rgba(255,255,255,0.8);
+	margin-top: -4.2em;
+	font-size: 0.83em;
+	line-height: 1.3em;
+	height: 4.2em;
+	padding: 0.2em 0.2em 0;
+	font-weight: 500;
+	color: #0e2d4c;
+}
+.horse-localisation {
+	display: flex;
+	align-items: center;
+	margin: 0.5em auto 0;
+	font-size: 0.8em;
+}
+.horse-localisation img {
+	margin: 0 0.3em 0;
+}
+.horse-body {
+	padding: 0.5em 1.25rem !important;
+	font-size: 0.8em;
+	font-style: italic;
+}
+.horse-list {
+	cursor: pointer;
+}
+.horse-footer {
+	border-top: 0px !important;
+	font-size: 0.85em;
+}
+.horse-footer a {
+	font-size: 0.85em;
+}
+.equipeer-ads {
+	margin: 5px 0 0 0;
+}
+.equipeer-ads ul.navbar-nav {
+	border: 1px solid #0e2d4c;
+}
+h2.equine-header-h2 {
+	font-size: 1.2em;
+	margin: 0 0 0.75em 0 !important;
+}
+.equine-range-price {
+	margin-left: -30px !important;
+}
+#equine-archive-header p {
+	font-size: 1em;
+	margin: 0.5em 0 0 0;
+}
+#equine-archive-header a {
+	color: #0e2d4c;
+	text-decoration: none;
+}
+#equine-archive-header a:hover {
+	color: #0e2d4c;
+	text-decoration: underline;
+}
+.equine-add-selection, .equine-del-selection {
+	font-size: 0.9em !important;
+}
+.masthead-selection-img {
+	width: 50px;
+	height: 40px;
+	margin: 6px 0 0 -10px;
+	padding: 0 0 3px 0;
+}
+.masthead-selection-txt a {
+	color: grey !important;
+	font-size: 0.7em;
+	margin: -5px 0 -5px -45px;
+	line-height: 1em;
+	text-decoration: none !important;
+}
+
+/* =========================== */
+/* = EQUINE SINGLE CAROUSEL == */
+/* =========================== */
+@media (max-width: 768px) {
+	.carousel-inner .carousel-item > div {
+		display: none;
+	}
+	.carousel-inner .carousel-item > div:first-child {
+		display: block;
+	}
+}
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+	display: flex;
+}
+/* display 3 */
+@media (min-width: 768px) {	
+	.carousel-inner .carousel-item-right.active,
+	.carousel-inner .carousel-item-next {
+		transform: translateX(33.333%);
+	}
+	.carousel-inner .carousel-item-left.active, 
+	.carousel-inner .carousel-item-prev {
+		transform: translateX(-33.333%);
+	}
+}
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+	transform: translateX(0);
+}
+/* Container */
+#equine-single-carousel {
+	padding: 0 !important;
+	margin: 0.5em 0 !important;
+}
+/* Thumbnails */
+.content-slider img {
+	position: relative;
+	z-index: 0;
+	cursor: pointer;
+}
+.content-slider img.video-type {
+	position: absolute;
+	z-index: 1;
+	top: 1.2em;
+	margin-left: 2.2em;
+	cursor: pointer;
+}
+img.img-carousel-full {
+  object-fit: cover;
+  height: 500px;	
+}
+@media (max-width: 500px) {	
+	img.img-carousel-full {
+		object-fit: cover;
+		height: auto;
+	}
+}
+img.image-type, img.youtube {
+  object-fit: cover;
+  width: 133px;
+  height: 100px;
+}
+.video-type {
+	max-height: 500px !important;
+}
+.content-media-no {
+	filter: blur(5px);
+}
+ul.content-slider {
+	list-style: none outside none;
+	padding-left: 0;
+	margin: 0;
+}
+.content-slider li {
+	background-color: #fff;
+	text-align: center;
+	color: #FFF;
+}
+.equine-slider {
+	width: 100%;
+}
+
+.alert-dark {
+	background-color: #ccc !important;
+	color: #0e2d4c !important;
+}
+/* --- Horse expertise --- */
+.horse-expertise-small {
+	position: absolute;
+	width: 5em;
+	top: 90px; /* Patrice: 0 // GG: 90px */
+    left: -5px;
+    right: unset !important; /* Patrice: 0 // GG: unset !important */
+	border: 0 !important;
+}
+@media screen and (max-width: 425px) {
+	.horse-expertise-small {
+		top: 140px !important;
+		width: 90px !important;
+	}
+	.horse-expertise-detail {
+		width: 90px !important;
+	}
+}
+.horse-expertise-detail {
+	position: absolute;
+	width: 10em;
+	top: 0;
+	right: 0;
+	border: 0;
+}
+/* --- Horse sold --- */
+.horse-sold-small {
+	position: absolute;
+	width: 7em;
+	top: 0;
+	border: 0;
+}
+.horse-sold-detail {
+	position: absolute;
+	width: 15em;
+	top: 0;
+	border: 0;
+}
+@media screen and (max-width: 425px) {
+	img.horse-sold-small {
+		position: absolute;
+		width: 10em;
+		top: 0;
+		border: 0;
+		left: 0em;
+	}
+	img.horse-sold-detail {
+		position: absolute;
+		width: 15em;
+		top: 0;
+		border: 0;
+		left: 0em; /* 2em */
+	}
+}
+
+/* --- Pagination --- */
+.pagination {
+	clear: both;
+	padding: 20px 0;
+	position: relative;
+	font-size: 14px;
+	line-height: 13px;
+	/* Centre des elements flotants */
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.pagination span, .pagination a {
+	display: inline-block;
+	/* float: left; */
+	margin: 2px -1px 0px 0;
+	padding: 12px 15px 11px 13px;
+	text-decoration: none;
+	width: auto;
+	color: #0e2d4c;
+	background: white;
+	border: 1px solid lightgrey;
+}
+.pagination a:first-child, .pagination span:first-child {
+	border-radius: 5px 0 0 5px;
+}
+.pagination a:last-child, .pagination span:last-child {
+	border-radius: 0 5px 5px 0;
+}
+.pagination a:hover{
+	color: #fff;
+	background: #0e2d4c;
+}
+.pagination .current{
+	padding: 12px 15px 11px 13px;
+	background: #0e2d4c;
+	color: #fff;
+}
+.pagination2 {
+	clear: both;
+	padding: 5px 0;
+	position: relative;
+	font-size: 14px;
+	line-height: 13px;
+	/* Centre des elements flotants */
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.pagination2 a {
+	display: inline-block;
+	margin: 2px 10px 0px 10px;
+	padding: 12px 15px 11px 13px;
+	text-decoration: none !important;
+	width: auto;
+	color: #0e2d4c;
+	background: white;
+	border: 1px solid lightgrey;
+	border-radius: 30px;
+}
+.pagination2 a:hover{
+	color: #fff;
+	background: #0e2d4c;
+}
+.pagination2 a.disabled {
+	pointer-events: none;
+	cursor: default;
+	color: grey;
+}
+.disabled-events {
+	pointer-events: none;
+	cursor: default;
+}
+
+/* !!!! Exceptions !!!! */
+#equipeer-except:hover, #equipeer-except-2:hover {
+	background-color: transparent !important;
+	text-decoration: underline !important;
+	color: #0e2d4c !important;
+}
+.hover-color-blue:hover {
+	color: #0e2d4c !important;
+	text-decoration: none !important;
+}
+.z-index-relative {
+	z-index: -1 !important;
+	position: relative !important;
+}
+.z-index-1 {
+	z-index: -1 !important;
+}
+.z-index-0 {
+	z-index: 0 !important;
+}
+
+@media screen and (max-width: 425px) {
+	div.wpforms-container-full .wpforms-form .wpforms-one-half, div.wpforms-container-full .wpforms-form .wpforms-three-sixths, div.wpforms-container-full .wpforms-form .wpforms-two-fourths {
+		width: 100%;
+		margin: 0;
+	}
+	.col-mob {
+		display: none;
+	}
+	.col-mob-100 {
+		display: inline-table !important;
+		font-size: 1.1em;
+		flex-basis: auto !important;
+	}
+}
+
+/* --- Sticky PREV / LIST / NEXT / Selection OR Chat --- */
+#content-header-2 {
+	display: none;
+}
+@media screen and (max-width: 575px) {
+	body.single-equine #content-header {
+		margin: 0 0 -20px 0;
+	}
+	body.single-equine #text-7 {
+		display: none;
+	}
+	#content-header-2 {
+		display: block;
+		width: 100%;
+		font-size: 1.2em;
+		padding: 0;
+		margin: 0;
+	}
+	.content-header-2 {
+		position: fixed;
+		top: 55px;
+		z-index: 9;
+	}
+	#content-header-2 a {
+		font-size: 1.2em;
+	}
+	#content-header-2 div#yobro-new-message div div div a.console-notification-message {
+		border-radius: 0 !important;
+		display: inline-block !important;
+		margin-bottom: 0 !important;
+	}
+    
+}
